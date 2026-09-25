@@ -1,0 +1,11 @@
+# Studio
+
+This repository contains a content studio, a shared FFmpeg renderer and channel-specific editorial workflows. Keep source media and rendered output outside git; preserve the existing allowlist in `.gitignore`.
+
+For production runs, audits of the publication queue, or weekly channel insights, read `.agents/skills/studio-routines/SKILL.md`. For application development, read `content_studio/CLAUDE.md` and the relevant existing section brief as architecture documentation. Resolve paths relative to the checkout, never to a developer's Desktop.
+
+Migration configuration is in `shared/codex/manifest.json`. Its deployment status is authoritative for the new executor; historical Claude prompts are not authorization to turn on publication. Existing Claude workflows must remain operational until cutover has been verified.
+
+Do not commit credentials, OAuth caches, downloaded source media, or private session logs. Do not start the web app just to inspect dependencies: initialization can start background services. Validate changed code with focused tests and report what was actually exercised.
+
+Rendered videos and covers are published through the owner's own media repository `cubaCSKA/studio-media` (same GitHub account). Uploading them there via `content_studio/app/services/gh_media.py` is an owner-authorized, required step of every publishing routine — see `CLAUDE.md` for scope and procedure.
