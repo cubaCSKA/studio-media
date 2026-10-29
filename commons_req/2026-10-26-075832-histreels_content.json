@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-26-075832-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "tunnel29",
+   "category": "Category:Tunnel 29",
+   "query": "Tunnel 29 Berlin Wall escape 1962"
+  },
+  {
+   "id": "balloon79",
+   "category": "Category:Ballonflucht",
+   "query": "Strelzyk Wetzel balloon escape East Germany 1979"
+  },
+  {
+   "id": "danes43",
+   "category": "Category:Rescue of the Danish Jews",
+   "query": "Danish Jews rescue Sweden 1943"
+  },
+  {
+   "id": "schindler",
+   "category": "Category:Oskar Schindler",
+   "query": "Oskar Schindler"
+  },
+  {
+   "id": "stalag3",
+   "category": "Category:Stalag Luft III",
+   "query": "Stalag Luft III Great Escape"
+  },
+  {
+   "id": "ireland14",
+   "category": "Category:RMS Empress of Ireland",
+   "query": "Empress of Ireland 1914"
+  },
+  {
+   "id": "thetis39",
+   "category": "Category:HMS Thetis (N25)",
+   "query": "HMS Thetis submarine 1939"
+  },
+  {
+   "id": "springhill58",
+   "category": "Category:Springhill mining disaster",
+   "query": "Springhill mining disaster 1958"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-26T07:58:32+00:00"
+}

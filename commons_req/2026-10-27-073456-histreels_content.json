@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-27-073456-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine",
+   "query": "Quecreek Mine rescue 2002"
+  },
+  {
+   "id": "stlouis",
+   "category": "MS St. Louis (ship, 1928)",
+   "query": "MS St. Louis 1939 Havana refugees"
+  },
+  {
+   "id": "liddell",
+   "category": "Eric Liddell",
+   "query": "Eric Liddell 1924 Olympics"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler Emalia"
+  },
+  {
+   "id": "albatross",
+   "category": "Gossamer Albatross",
+   "query": "Gossamer Albatross 1979 English Channel"
+  },
+  {
+   "id": "halvorsen",
+   "category": "Gail Halvorsen",
+   "query": "Candy bomber Berlin Airlift Halvorsen"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-27T07:34:56+00:00"
+}

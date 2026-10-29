@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-27-193835-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "greatescape",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III 1944"
+  },
+  {
+   "id": "crean",
+   "category": "Tom Crean (explorer)",
+   "query": "Tom Crean Antarctic"
+  },
+  {
+   "id": "gijoe",
+   "category": "G.I. Joe (pigeon)",
+   "query": "G.I. Joe pigeon Dickin Medal"
+  },
+  {
+   "id": "rogozov",
+   "category": "Leonid Rogozov",
+   "query": "Leonid Rogozov Novolazarevskaya appendectomy 1961"
+  },
+  {
+   "id": "thompson",
+   "category": "Hugh Thompson Jr.",
+   "query": "Hugh Thompson My Lai"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-27T19:38:35+00:00"
+}

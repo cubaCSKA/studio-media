@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-28-193829-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "schindler",
+   "category": "Category:Oskar Schindler",
+   "query": "Oskar Schindler factory Emalia"
+  },
+  {
+   "id": "kolbe",
+   "category": "Category:Maximilian Kolbe",
+   "query": "Maximilian Kolbe Auschwitz"
+  },
+  {
+   "id": "cavell",
+   "category": "Category:Edith Cavell",
+   "query": "Edith Cavell nurse 1915"
+  },
+  {
+   "id": "escape",
+   "category": "Category:Stalag Luft III",
+   "query": "Great Escape Stalag Luft III tunnel Harry"
+  },
+  {
+   "id": "boxbrown",
+   "category": "Category:Henry Box Brown",
+   "query": "Henry Box Brown"
+  },
+  {
+   "id": "nellie",
+   "category": "Category:Nellie Bly",
+   "query": "Nellie Bly around the world 1889"
+  },
+  {
+   "id": "pendleton",
+   "category": "Category:CG-36500",
+   "query": "Pendleton rescue Chatham Coast Guard 1952"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-28T19:38:29+00:00"
+}

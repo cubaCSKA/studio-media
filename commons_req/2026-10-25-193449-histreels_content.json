@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-25-193449-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "halyard",
+   "category": "Operation Halyard",
+   "query": "Operation Halyard airmen Pranjani 1944"
+  },
+  {
+   "id": "empire",
+   "category": "HMT Empire Windrush",
+   "query": "Empire Windrush ship fire 1954"
+  },
+  {
+   "id": "fastnet",
+   "category": "1979 Fastnet race",
+   "query": "Fastnet 1979 storm yacht rescue"
+  },
+  {
+   "id": "stlouis",
+   "category": "MS St. Louis (ship, 1929)",
+   "query": "St. Louis 1939 refugees Havana"
+  },
+  {
+   "id": "gustloff",
+   "category": "Wilhelm Gustloff (ship)",
+   "query": "Wilhelm Gustloff sinking 1945"
+  },
+  {
+   "id": "crimea",
+   "category": "Evacuation of Crimea 1920",
+   "query": "Wrangel evacuation Sevastopol 1920 ships"
+  },
+  {
+   "id": "springhill",
+   "category": "Springhill mining disaster",
+   "query": "Springhill 1958 miners rescued"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-25T19:34:49+00:00"
+}

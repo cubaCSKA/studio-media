@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-27-193422-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler"
+  },
+  {
+   "id": "gander",
+   "category": "Operation Yellow Ribbon",
+   "query": "Gander International Airport September 11 2001 diverted aircraft"
+  },
+  {
+   "id": "rickenbacker",
+   "category": "Eddie Rickenbacker",
+   "query": "Eddie Rickenbacker raft 1942"
+  },
+  {
+   "id": "musadagh",
+   "category": "Musa Dagh",
+   "query": "Musa Dagh 1915 French cruiser Armenian refugees Port Said"
+  },
+  {
+   "id": "perlasca",
+   "category": "Giorgio Perlasca",
+   "query": "Giorgio Perlasca"
+  },
+  {
+   "id": "gruninger",
+   "category": "Paul Grüninger",
+   "query": "Paul Grüninger"
+  },
+  {
+   "id": "zwartendijk",
+   "category": "Jan Zwartendijk",
+   "query": "Jan Zwartendijk Curaçao visas Kaunas"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-27T19:34:22+00:00"
+}

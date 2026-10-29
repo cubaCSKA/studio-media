@@ -1,0 +1,80 @@
+name: fakto.sfera case cache
+
+# ПЕРЕНЕСЕНО из cubaCSKA/studio 25.10.2026: у закрытого studio кончились 2000
+# бесплатных минут Actions в месяц, у публичного studio-media минуты не считаются.
+# Код и состояние остаются в закрытом studio: workflow клонирует его секретом
+# STUDIO_TOKEN (запись в cubaCSKA/studio) и туда же пушит результат. Файлы
+# кадров кладутся в этот репозиторий через github.token. Логи здесь публичные —
+# секреты в них не печатать.
+
+# Ночной каталог дел @fakto.sfera (с 22.10.2026 канал в формате «Дела маньяка»):
+# розыск ФБР (api.fbi.gov) + полицейский архив Норт-Шилдса (Commons) →
+# fakto_sfera/cases.json, а кадры ближайших свободных дел — в studio-media.
+# Облаку Commons отвечает 429, а ФБР режет частые запросы, поэтому сеть уходит
+# сюда; прогон берёт кадры по ссылкам studio-media (fs_frames.py sheet/take).
+# Рутина FAKTO_SFERA стартует 09:30 UTC — кеш к этому времени готов.
+
+on:
+  schedule:
+    - cron: "40 3 * * *"
+  workflow_dispatch:
+    inputs:
+      fbi:
+        description: Сколько свободных дел ФБР держать с кадрами в studio-media
+        default: "30"
+      tw:
+        description: Сколько свободных дел архива держать с кадрами
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fakto-sfera-cases
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    defaults:
+      run:
+        working-directory: studio
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: cubaCSKA/studio
+          token: ${{ secrets.STUDIO_TOKEN }}
+          path: studio
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install --quiet pillow
+      - name: Build catalog
+        env:
+          STUDIO_ROOT: ${{ github.workspace }}/studio
+        run: python3 fakto_sfera/scripts/fs_cases.py build
+      - name: Mirror frames to studio-media
+        env:
+          STUDIO_ROOT: ${{ github.workspace }}/studio
+          GH_MEDIA_TOKEN: ${{ github.token }}
+        run: python3 fakto_sfera/scripts/fs_cases.py mirror "${{ github.event.inputs.fbi || '30' }}" "${{ github.event.inputs.tw || '20' }}"
+      - name: Commit catalog
+        run: |
+          git config user.name "fakto-sfera-cases"
+          git config user.email "actions@users.noreply.github.com"
+          git add fakto_sfera/cases.json
+          if git diff --cached --quiet; then
+            echo "каталог не изменился"
+            exit 0
+          fi
+          git commit -m "fakto_sfera: каталог дел $(date -u +%F)"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --quiet origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 15))
+          done
+          echo "не удалось запушить каталог" >&2
+          exit 1

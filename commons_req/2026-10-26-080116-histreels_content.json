@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-26-080116-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "darling38",
+   "category": "Category:Grace Darling",
+   "query": "Grace Darling lifeboat rescue Forfarshire 1838"
+  },
+  {
+   "id": "greatbritain70",
+   "category": "Category:SS Great Britain",
+   "query": "SS Great Britain Falkland Islands salvage 1970"
+  },
+  {
+   "id": "littlerock57",
+   "category": "Category:Little Rock Nine",
+   "query": "Little Rock Nine 1957 Central High"
+  },
+  {
+   "id": "quecreek02",
+   "category": "Category:Quecreek Mine rescue",
+   "query": "Quecreek mine rescue 2002"
+  },
+  {
+   "id": "lancastria40",
+   "category": "Category:RMS Lancastria",
+   "query": "Lancastria 1940 Saint-Nazaire"
+  },
+  {
+   "id": "birkenhead52",
+   "category": "Category:HMS Birkenhead (1845)",
+   "query": "HMS Birkenhead 1852 shipwreck"
+  },
+  {
+   "id": "collins25",
+   "category": "Category:Floyd Collins",
+   "query": "Floyd Collins Sand Cave 1925"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-26T08:01:16+00:00"
+}

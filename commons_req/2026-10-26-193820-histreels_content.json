@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-26-193820-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "cherami",
+   "category": "Cher Ami",
+   "query": "Cher Ami pigeon Lost Battalion 1918"
+  },
+  {
+   "id": "mann",
+   "category": "Mann Gulch fire",
+   "query": "Mann Gulch fire 1949 smokejumpers"
+  },
+  {
+   "id": "boxbrown",
+   "category": "Henry Box Brown",
+   "query": "Henry Box Brown 1849 box escape"
+  },
+  {
+   "id": "stubby",
+   "category": "Sergeant Stubby",
+   "query": "Sergeant Stubby dog World War I"
+  },
+  {
+   "id": "karski",
+   "category": "Jan Karski",
+   "query": "Jan Karski 1943 report Warsaw ghetto"
+  },
+  {
+   "id": "ladybe",
+   "category": "Lady Be Good (aircraft)",
+   "query": "Lady Be Good B-24 Libya desert"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-26T19:38:20+00:00"
+}

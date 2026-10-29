@@ -1,0 +1,23 @@
+{
+ "id": "2026-10-25-194616-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "halyard",
+   "category": "Operation Halyard",
+   "query": "Operation Halyard airmen 1944"
+  },
+  {
+   "id": "fastnet",
+   "category": "1979 Fastnet race",
+   "query": "Fastnet 1979 storm"
+  },
+  {
+   "id": "stlouis",
+   "category": "MS St. Louis (ship, 1929)",
+   "query": "St. Louis 1939 refugees"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-25T19:46:16+00:00"
+}

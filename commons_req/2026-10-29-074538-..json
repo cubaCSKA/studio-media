@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-29-074538-.",
+ "channel_dir": ".",
+ "topics": [
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine rescue",
+   "query": "Quecreek Mine rescue 2002"
+  },
+  {
+   "id": "choctaw",
+   "category": "Choctaw Nation",
+   "query": "Choctaw Trail of Tears Irish famine"
+  },
+  {
+   "id": "stkilda",
+   "category": "St Kilda, Scotland",
+   "query": "St Kilda evacuation 1930"
+  },
+  {
+   "id": "eyam",
+   "category": "Eyam",
+   "query": "Eyam plague village"
+  },
+  {
+   "id": "gunnison",
+   "category": "Gunnison, Colorado",
+   "query": "Gunnison Colorado 1918 influenza"
+  },
+  {
+   "id": "gander",
+   "category": "Gander International Airport",
+   "query": "Gander September 11 2001 diverted flights"
+  },
+  {
+   "id": "thompson",
+   "category": "Hugh Thompson Jr.",
+   "query": "My Lai massacre Hugh Thompson"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-29T07:45:38+00:00"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-29-194133-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "togo",
+   "category": "Togo (dog)",
+   "query": "Togo sled dog Seppala 1925"
+  },
+  {
+   "id": "ruby",
+   "category": "Ruby Bridges",
+   "query": "Ruby Bridges 1960 school"
+  },
+  {
+   "id": "dunant",
+   "category": "Henry Dunant",
+   "query": "Henry Dunant Solferino Red Cross"
+  },
+  {
+   "id": "barry",
+   "category": "Barry (dog)",
+   "query": "Barry Saint Bernard Bern"
+  },
+  {
+   "id": "cherami2",
+   "category": "Cher Ami (pigeon)",
+   "query": "Cher Ami pigeon"
+  },
+  {
+   "id": "airfl",
+   "category": "Air Florida Flight 90",
+   "query": "Air Florida Flight 90 Potomac 1982"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-29T19:41:33+00:00"
+}

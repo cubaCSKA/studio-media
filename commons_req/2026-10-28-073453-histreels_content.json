@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-28-073453-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "danes",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews 1943 rescue Gilleleje"
+  },
+  {
+   "id": "jessop",
+   "category": "Violet Jessop",
+   "query": "Violet Jessop stewardess Olympic Titanic"
+  },
+  {
+   "id": "hiroshima",
+   "category": "Aftermath of the atomic bombing of Hiroshima",
+   "query": "Hiroshima 1945 after bombing"
+  },
+  {
+   "id": "flyingent",
+   "category": "Flying Enterprise (ship, 1944)",
+   "query": "Flying Enterprise Carlsen 1952"
+  },
+  {
+   "id": "halyard",
+   "category": "Operation Halyard",
+   "query": "Halyard Mission Mihailovic airmen 1944"
+  },
+  {
+   "id": "shetlandbus",
+   "category": "Shetland Bus",
+   "query": "Shetland Bus Norway fishing boats"
+  },
+  {
+   "id": "bader",
+   "category": "Douglas Bader",
+   "query": "Douglas Bader legless pilot"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-28T07:34:53+00:00"
+}

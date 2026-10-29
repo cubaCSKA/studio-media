@@ -1,0 +1,23 @@
+{
+ "id": "2026-10-27-074133-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "doss",
+   "category": "Desmond Doss",
+   "query": "Desmond Doss Medal of Honor"
+  },
+  {
+   "id": "benavidez",
+   "category": "Roy Benavidez",
+   "query": "Roy P. Benavidez"
+  },
+  {
+   "id": "chaplains",
+   "category": "Four Chaplains",
+   "query": "SS Dorchester 1943 four chaplains"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-27T07:41:33+00:00"
+}

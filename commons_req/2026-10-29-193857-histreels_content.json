@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-29-193857-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "perlasca",
+   "category": "Giorgio Perlasca",
+   "query": "Giorgio Perlasca"
+  },
+  {
+   "id": "fry",
+   "category": "Varian Fry",
+   "query": "Varian Fry Emergency Rescue Committee"
+  },
+  {
+   "id": "cherami",
+   "category": "Cher Ami",
+   "query": "Cher Ami pigeon Lost Battalion"
+  },
+  {
+   "id": "vittles",
+   "category": "Operation Vittles",
+   "query": "Gail Halvorsen candy bomber"
+  },
+  {
+   "id": "gustloff",
+   "category": "Wilhelm Gustloff",
+   "query": "MV Wilhelm Gustloff"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-29T19:38:57+00:00"
+}

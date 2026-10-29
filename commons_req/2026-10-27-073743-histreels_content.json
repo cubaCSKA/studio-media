@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-27-073743-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "vittles",
+   "category": "Operation Vittles",
+   "query": "Berlin Airlift candy bomber"
+  },
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine Rescue",
+   "query": "Quecreek mine 2002 rescue"
+  },
+  {
+   "id": "stlouis",
+   "category": "MS St. Louis",
+   "query": "St. Louis ship 1939 Cuba refugees"
+  },
+  {
+   "id": "lostbn",
+   "category": "Lost Battalion (World War II)",
+   "query": "442nd Regimental Combat Team Vosges 1944"
+  },
+  {
+   "id": "bielski",
+   "category": "Bielski partisans",
+   "query": "Tuvia Bielski"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-27T07:37:43+00:00"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-26-080305-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "cherami18",
+   "category": "Category:Cher Ami",
+   "query": "Cher Ami pigeon Lost Battalion 1918"
+  },
+  {
+   "id": "stubby18",
+   "category": "Category:Sergeant Stubby",
+   "query": "Sergeant Stubby dog World War I"
+  },
+  {
+   "id": "reckless53",
+   "category": "Category:Sergeant Reckless",
+   "query": "Sergeant Reckless horse Korean War"
+  },
+  {
+   "id": "maryrose82",
+   "category": "Category:Mary Rose",
+   "query": "Mary Rose raising 1982"
+  },
+  {
+   "id": "smoky44",
+   "category": "Category:Smoky (dog)",
+   "query": "Smoky Yorkshire Terrier World War II"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-26T08:03:05+00:00"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-29-193449-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "halvorsen",
+   "category": "Gail Halvorsen",
+   "query": "Halvorsen candy bomber Berlin airlift"
+  },
+  {
+   "id": "karski",
+   "category": "Jan Karski",
+   "query": "Jan Karski"
+  },
+  {
+   "id": "hosenfeld",
+   "category": "Wilm Hosenfeld",
+   "query": "Wilm Hosenfeld"
+  },
+  {
+   "id": "gustloff",
+   "category": "Wilhelm Gustloff (ship)",
+   "query": "Wilhelm Gustloff ship 1945 refugees"
+  },
+  {
+   "id": "lidice",
+   "category": "Lidice",
+   "query": "Lidice 1942"
+  },
+  {
+   "id": "nansen21",
+   "category": "Fridtjof Nansen",
+   "query": "Nansen Russian famine 1921 relief"
+  },
+  {
+   "id": "skobtsova",
+   "category": "Maria Skobtsova",
+   "query": "Mother Maria Skobtsova"
+  },
+  {
+   "id": "pq17",
+   "category": "Convoy PQ 17",
+   "query": "Convoy PQ 17"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-29T19:34:49+00:00"
+}

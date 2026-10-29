@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-28-194252-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "chamberlain",
+   "category": "Category:Joshua Lawrence Chamberlain",
+   "query": "Joshua Chamberlain 20th Maine Little Round Top"
+  },
+  {
+   "id": "rorke",
+   "category": "Category:Battle of Rorke's Drift",
+   "query": "Rorke's Drift 1879"
+  },
+  {
+   "id": "york",
+   "category": "Category:Alvin C. York",
+   "query": "Sergeant Alvin York 1918"
+  },
+  {
+   "id": "snow",
+   "category": "Category:John Snow",
+   "query": "John Snow cholera Broad Street pump 1854"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-28T19:42:52+00:00"
+}

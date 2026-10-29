@@ -1,0 +1,13 @@
+{
+ "id": "2026-10-25-183438-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "probe",
+   "category": "Yuri Gagarin",
+   "query": "Yuri Gagarin 1961"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-25T18:34:38+00:00"
+}

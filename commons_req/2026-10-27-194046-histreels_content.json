@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-27-194046-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "oates",
+   "category": "Lawrence Oates",
+   "query": "Lawrence Oates Terra Nova"
+  },
+  {
+   "id": "jessop",
+   "category": "Violet Jessop",
+   "query": "Violet Jessop stewardess Titanic"
+  },
+  {
+   "id": "mollybrown",
+   "category": "Margaret Brown",
+   "query": "Molly Brown Titanic survivor"
+  },
+  {
+   "id": "liddell",
+   "category": "Eric Liddell",
+   "query": "Eric Liddell 1924 Olympics"
+  },
+  {
+   "id": "lightoller",
+   "category": "Charles Lightoller",
+   "query": "Charles Lightoller Titanic"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-27T19:40:46+00:00"
+}

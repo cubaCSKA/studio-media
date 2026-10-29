@@ -1,0 +1,23 @@
+{
+ "id": "2026-10-27-194515-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "korczak",
+   "category": "Janusz Korczak",
+   "query": "Janusz Korczak orphanage"
+  },
+  {
+   "id": "kolbe",
+   "category": "Maximilian Kolbe",
+   "query": "Maximilian Kolbe"
+  },
+  {
+   "id": "bartali",
+   "category": "Gino Bartali",
+   "query": "Gino Bartali"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-27T19:45:15+00:00"
+}

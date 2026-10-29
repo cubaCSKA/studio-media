@@ -1,0 +1,23 @@
+{
+ "id": "2026-10-28-074207-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "ricken",
+   "category": "Eddie Rickenbacker",
+   "query": "Eddie Rickenbacker life raft 1942"
+  },
+  {
+   "id": "lipiz",
+   "category": "Lipizzan",
+   "query": "Lipizzaner Spanish Riding School 1945"
+  },
+  {
+   "id": "wake",
+   "category": "Nancy Wake",
+   "query": "Nancy Wake SOE resistance"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-28T07:42:07+00:00"
+}

@@ -1,0 +1,90 @@
+name: manyak case cache
+
+# ПЕРЕНЕСЕНО из cubaCSKA/studio 25.10.2026: у закрытого studio кончились 2000
+# бесплатных минут Actions в месяц, у публичного studio-media минуты не считаются.
+# Код и состояние остаются в закрытом studio: workflow клонирует его секретом
+# STUDIO_TOKEN (запись в cubaCSKA/studio) и туда же пушит результат. Файлы
+# кадров кладутся в этот репозиторий через github.token. Логи здесь публичные —
+# секреты в них не печатать.
+
+# Ночной кеш дел «Дела маньяка» (05.10.2026): тексты статей, факты и
+# портреты-эталоны свободных дел. Облачному прогону Википедия отвечает 429
+# (05.10 из восьми дел собрали пять), поэтому сеть уходит сюда, а прогон
+# читает manyak/case_cache.json. Рутина канала стартует в 05:00 и 17:00 UTC.
+#
+# С 22.10.2026 здесь же готовятся КАДРЫ дел (mn_prefetch.py): поиск, закачка,
+# отсев мелочи и дублей, до 12 кадров дела в studio-media. Прогон выбирает
+# из них глазами. Раньше поиск шёл в прогоне и съедал его: 60% нормы, 21.10
+# вечером — ноль роликов из девяти проверенных дел.
+
+on:
+  schedule:
+    - cron: "10 3 * * *"
+    - cron: "10 15 * * *"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: Сколько новых дел собрать за запуск
+        default: "80"
+      cases:
+        description: Сколько дел держать с готовыми кадрами
+        default: "30"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manyak-cache
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    defaults:
+      run:
+        working-directory: studio
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: cubaCSKA/studio
+          token: ${{ secrets.STUDIO_TOKEN }}
+          path: studio
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        # ffmpeg и opencv — для кадров «Криминальной России» (mn_kr.py, 26.10.2026);
+        # opencv 4.x: в 5.x нет каскада лиц
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install --quiet requests pillow numpy "opencv-python-headless>=4.9,<5"
+      - name: Build cache
+        env:
+          STUDIO_ROOT: ${{ github.workspace }}/studio
+        run: python3 manyak/scripts/mn_cache.py build --max "${{ github.event.inputs.max || '80' }}"
+      - name: Prefetch frames to studio-media
+        continue-on-error: true
+        timeout-minutes: 120
+        env:
+          STUDIO_ROOT: ${{ github.workspace }}/studio
+          GH_MEDIA_TOKEN: ${{ github.token }}
+        run: python3 manyak/scripts/mn_prefetch.py build --cases "${{ github.event.inputs.cases || '30' }}"
+      - name: Commit cache
+        run: |
+          git config user.name "manyak-cache"
+          git config user.email "actions@users.noreply.github.com"
+          git add manyak/case_cache.json manyak/prefetch.json 2>/dev/null || git add manyak/case_cache.json
+          if git diff --cached --quiet; then
+            echo "кеш не изменился"
+            exit 0
+          fi
+          git commit -m "manyak: кеш дел и кадров $(date -u +%F)"
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase --quiet origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 15))
+          done
+          echo "не удалось запушить кеш" >&2
+          exit 1

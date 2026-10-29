@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-28-194608-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "togo",
+   "category": "Category:Togo (dog)",
+   "query": "Togo sled dog Seppala 1925 serum run"
+  },
+  {
+   "id": "smoky",
+   "category": "Category:Smoky (dog)",
+   "query": "Smoky Yorkshire Terrier war dog Bill Wynne"
+  },
+  {
+   "id": "hopper",
+   "category": "Category:Grace Hopper",
+   "query": "Grace Hopper bug Harvard Mark II 1947"
+  },
+  {
+   "id": "seacole",
+   "category": "Category:Mary Seacole",
+   "query": "Mary Seacole Crimean War"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-28T19:46:08+00:00"
+}

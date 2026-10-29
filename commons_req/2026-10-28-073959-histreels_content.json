@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-28-073959-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "cherami",
+   "category": "Cher Ami",
+   "query": "Cher Ami pigeon Lost Battalion"
+  },
+  {
+   "id": "halvorsen",
+   "category": "Gail Halvorsen",
+   "query": "Candy bomber Berlin airlift Halvorsen"
+  },
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine",
+   "query": "Quecreek Mine rescue 2002"
+  },
+  {
+   "id": "stalag",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III 1944"
+  },
+  {
+   "id": "wojtek",
+   "category": "Wojtek (bear)",
+   "query": "Wojtek soldier bear Polish"
+  },
+  {
+   "id": "millin",
+   "category": "Bill Millin",
+   "query": "Bill Millin piper Sword Beach"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-28T07:39:59+00:00"
+}

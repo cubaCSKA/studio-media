@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-26-193549-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "smalls",
+   "category": "Robert Smalls",
+   "query": "Robert Smalls CSS Planter 1862"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler Schindlerjuden 1944"
+  },
+  {
+   "id": "fry",
+   "category": "Varian Fry",
+   "query": "Varian Fry Marseille 1940 Emergency Rescue Committee"
+  },
+  {
+   "id": "gander",
+   "category": "Operation Yellow Ribbon",
+   "query": "Gander airport September 11 2001 diverted flights"
+  },
+  {
+   "id": "sultana",
+   "category": "Sultana (steamboat)",
+   "query": "Sultana steamboat 1865 Mound City"
+  },
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine rescue",
+   "query": "Quecreek mine 2002 rescue"
+  },
+  {
+   "id": "thompson",
+   "category": "Hugh Thompson Jr.",
+   "query": "My Lai massacre Hugh Thompson 1968"
+  },
+  {
+   "id": "perlasca",
+   "category": "Giorgio Perlasca",
+   "query": "Giorgio Perlasca Budapest 1944"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-26T19:35:49+00:00"
+}

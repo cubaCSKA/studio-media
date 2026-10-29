@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-28-193512-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pendleton",
+   "category": "Category:SS Pendleton",
+   "query": "CG 36500 Pendleton rescue 1952 Coast Guard"
+  },
+  {
+   "id": "thompson",
+   "category": "Category:Hugh Thompson Jr.",
+   "query": "Hugh Thompson My Lai helicopter"
+  },
+  {
+   "id": "serbia",
+   "category": "Category:Serbian Army in World War I",
+   "query": "Serbian army Corfu 1916 evacuation"
+  },
+  {
+   "id": "quecreek",
+   "category": "Category:Quecreek Mine rescue",
+   "query": "Quecreek mine rescue 2002"
+  },
+  {
+   "id": "whittlesey",
+   "category": "Category:Lost Battalion (World War I)",
+   "query": "Lost Battalion Whittlesey Argonne 1918"
+  },
+  {
+   "id": "warzoo",
+   "category": "Category:Warsaw Zoo",
+   "query": "Jan Zabinski Warsaw zoo"
+  },
+  {
+   "id": "gander",
+   "category": "Category:Gander International Airport",
+   "query": "Gander 9/11 diverted aircraft"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-28T19:35:12+00:00"
+}

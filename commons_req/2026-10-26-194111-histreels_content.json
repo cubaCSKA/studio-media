@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-26-194111-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "sullivan",
+   "category": "Sullivan brothers",
+   "query": "Five Sullivan brothers USS Juneau 1942"
+  },
+  {
+   "id": "sultana2",
+   "category": "Steamboat Sultana",
+   "query": "Sultana disaster Memphis 1865"
+  },
+  {
+   "id": "winnie",
+   "category": "Winnipeg Bear Winnie",
+   "query": "Winnipeg the bear Winnie-the-Pooh Harry Colebourn"
+  },
+  {
+   "id": "belle",
+   "category": "Memphis Belle",
+   "query": "Memphis Belle B-17 25 missions 1943"
+  },
+  {
+   "id": "lilienthal",
+   "category": "Otto Lilienthal",
+   "query": "Otto Lilienthal glider 1896"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-26T19:41:11+00:00"
+}
