@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-30-193455-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler factory Krakow"
+  },
+  {
+   "id": "oflaherty",
+   "category": "Hugh O'Flaherty",
+   "query": "Hugh O'Flaherty Vatican Rome 1944"
+  },
+  {
+   "id": "fry",
+   "category": "Varian Fry",
+   "query": "Varian Fry Marseille Emergency Rescue Committee"
+  },
+  {
+   "id": "danes",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews 1943 Sweden boats"
+  },
+  {
+   "id": "tracy",
+   "category": "Cyclone Tracy",
+   "query": "Cyclone Tracy Darwin 1974 evacuation"
+  },
+  {
+   "id": "gander",
+   "category": "Gander International Airport",
+   "query": "Operation Yellow Ribbon Gander 2001"
+  },
+  {
+   "id": "lipizzan",
+   "category": "Lipizzan",
+   "query": "Spanish Riding School 1945 Patton Lipizzaner"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-30T19:34:55+00:00"
+}
