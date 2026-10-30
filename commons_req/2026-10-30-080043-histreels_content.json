@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-30-080043-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "barry",
+   "category": "Category:Barry der Menschenretter",
+   "query": "Barry dog Saint Bernard Bern"
+  },
+  {
+   "id": "smoky",
+   "category": "Category:Smoky (dog)",
+   "query": "Smoky Yorkshire Terrier war dog"
+  },
+  {
+   "id": "togo",
+   "category": "Category:Togo (dog)",
+   "query": "Togo sled dog 1925 serum run"
+  },
+  {
+   "id": "gijoe",
+   "category": "Category:Pigeons in World War II",
+   "query": "G.I. Joe pigeon Colvi 1943"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-30T08:00:43+00:00"
+}
