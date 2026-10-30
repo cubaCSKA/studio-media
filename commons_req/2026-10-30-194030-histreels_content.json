@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-30-194030-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "birkenhead",
+   "category": "HMS Birkenhead (1845)",
+   "query": "HMS Birkenhead wreck 1852"
+  },
+  {
+   "id": "panam6",
+   "category": "Pan Am Flight 6",
+   "query": "Pan Am Boeing 377 ditching 1956 Pontchartrain"
+  },
+  {
+   "id": "flying",
+   "category": "Flying Enterprise",
+   "query": "Flying Enterprise Carlsen Turmoil 1952"
+  },
+  {
+   "id": "republic",
+   "category": "RMS Republic (1903)",
+   "query": "RMS Republic 1909 collision Florida Baltic"
+  },
+  {
+   "id": "mexico",
+   "category": "Mexico disaster 1886",
+   "query": "Southport lifeboat 1886 Mexico"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-30T19:40:30+00:00"
+}
