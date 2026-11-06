@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-03-194048-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "musadag15",
+   "category": "Musa Dagh",
+   "query": "Musa Dagh 1915 Armenian resistance French ships"
+  },
+  {
+   "id": "piedpiper",
+   "category": "Evacuation of children in World War II",
+   "query": "evacuees London 1939 children evacuation"
+  },
+  {
+   "id": "ruby",
+   "category": "Ruby Bridges",
+   "query": "Ruby Bridges 1960 New Orleans school"
+  },
+  {
+   "id": "windrush",
+   "category": "Empire Windrush (ship)",
+   "query": "Empire Windrush 1948 Tilbury"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-03T19:40:48+00:00"
+}

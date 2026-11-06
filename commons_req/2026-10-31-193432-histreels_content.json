@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-31-193432-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "halyard",
+   "category": "Operation Halyard",
+   "query": "Operation Halyard Pranjani airmen Mihailovic"
+  },
+  {
+   "id": "evac39",
+   "category": "Evacuations of children in World War II",
+   "query": "British children evacuees 1939 train"
+  },
+  {
+   "id": "wrangel",
+   "category": "Evacuation of Crimea 1920",
+   "query": "Wrangel army evacuation Sevastopol 1920 ships"
+  },
+  {
+   "id": "gander",
+   "category": "Gander International Airport",
+   "query": "Gander 2001 September 11 diverted aircraft"
+  },
+  {
+   "id": "hamburg62",
+   "category": "North Sea flood of 1962",
+   "query": "Hamburg Sturmflut 1962 Helmut Schmidt Hubschrauber"
+  },
+  {
+   "id": "gustloff",
+   "category": "Wilhelm Gustloff (ship)",
+   "query": "Wilhelm Gustloff 1945 refugees"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-31T19:34:32+00:00"
+}

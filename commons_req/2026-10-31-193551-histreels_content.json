@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-31-193551-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "danes43",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews rescue boats Oresund 1943"
+  },
+  {
+   "id": "hamburg62",
+   "category": "Sturmflut 1962",
+   "query": "Hamburg flood 1962 Sturmflut"
+  },
+  {
+   "id": "gustloff",
+   "category": "Wilhelm Gustloff (Schiff, 1937)",
+   "query": "Wilhelm Gustloff"
+  },
+  {
+   "id": "halyard",
+   "category": "Draža Mihailović",
+   "query": "Chetniks airmen rescue C-47 Pranjani"
+  },
+  {
+   "id": "morro",
+   "category": "Morro Castle (ship)",
+   "query": "Morro Castle fire 1934 Asbury Park"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-31T19:35:51+00:00"
+}

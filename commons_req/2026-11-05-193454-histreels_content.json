@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-05-193454-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "danes",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews 1943 Sweden fishing boats"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Schindler Krakow factory"
+  },
+  {
+   "id": "jadotville",
+   "category": "Siege of Jadotville",
+   "query": "Jadotville Irish Congo 1961"
+  },
+  {
+   "id": "parisliber",
+   "category": "Liberation of Paris",
+   "query": "Paris August 1944 liberation"
+  },
+  {
+   "id": "chambon",
+   "category": "Le Chambon-sur-Lignon",
+   "query": "Chambon-sur-Lignon Jews rescue"
+  },
+  {
+   "id": "greatescape",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III tunnel"
+  },
+  {
+   "id": "pavlov",
+   "category": "Pavlov's House",
+   "query": "Pavlov's House Stalingrad"
+  },
+  {
+   "id": "kokoda",
+   "category": "Kokoda Track campaign",
+   "query": "Fuzzy Wuzzy Angels Kokoda"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-05T19:34:54+00:00"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-01-073556-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "stlouis39",
+   "category": "MS St. Louis (ship, 1929)",
+   "query": "St. Louis ship 1939 Cuba refugees"
+  },
+  {
+   "id": "greatescape",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III 1944"
+  },
+  {
+   "id": "rickenbacker",
+   "category": "Eddie Rickenbacker",
+   "query": "Rickenbacker 1942 life raft Pacific rescue"
+  },
+  {
+   "id": "lancastria",
+   "category": "RMS Lancastria",
+   "query": "Lancastria 1940 Saint-Nazaire sinking"
+  },
+  {
+   "id": "fastnet79",
+   "category": "1979 Fastnet race",
+   "query": "Fastnet 1979 yacht storm"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-01T07:35:56+00:00"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-31-194219-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "greatescape",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III tunnel Harry 1944"
+  },
+  {
+   "id": "lancastria",
+   "category": "RMS Lancastria",
+   "query": "Lancastria sinking Saint-Nazaire 1940"
+  },
+  {
+   "id": "harrison",
+   "category": "John Harrison",
+   "query": "John Harrison H4 chronometer"
+  },
+  {
+   "id": "hunley",
+   "category": "H. L. Hunley (submarine)",
+   "query": "Hunley submarine Confederate"
+  },
+  {
+   "id": "hopper",
+   "category": "Grace Hopper",
+   "query": "Grace Hopper Mark II moth"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-31T19:42:19+00:00"
+}

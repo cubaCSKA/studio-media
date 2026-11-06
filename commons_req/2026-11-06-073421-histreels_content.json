@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-06-073421-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "danish43",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews 1943 Sweden boats"
+  },
+  {
+   "id": "stalag",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III 1944"
+  },
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine rescue",
+   "query": "Quecreek mine 2002"
+  },
+  {
+   "id": "moses84",
+   "category": "Operation Moses",
+   "query": "Operation Moses Ethiopian Jews Sudan"
+  },
+  {
+   "id": "pq17",
+   "category": "Convoy PQ 17",
+   "query": "Convoy PQ-17 1942"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler Schindlerjuden"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-06T07:34:21+00:00"
+}

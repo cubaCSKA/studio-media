@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-06-074134-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "zabinski",
+   "category": "Warsaw Zoo",
+   "query": "Jan Żabiński Antonina Żabińska Warsaw Zoo"
+  },
+  {
+   "id": "bielski",
+   "category": "Bielski partisans",
+   "query": "Bielski partisans Naliboki forest"
+  },
+  {
+   "id": "kolhapur",
+   "category": "Polish children in India",
+   "query": "Valivade Kolhapur Polish refugees"
+  },
+  {
+   "id": "louvre39",
+   "category": "Evacuation of the Louvre",
+   "query": "Mona Lisa evacuation 1939 Louvre"
+  },
+  {
+   "id": "hermitage41",
+   "category": "Evacuation of the Hermitage",
+   "query": "Hermitage Sverdlovsk evacuation 1941"
+  },
+  {
+   "id": "nancywake",
+   "category": "Nancy Wake",
+   "query": "Nancy Wake SOE"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-06T07:41:34+00:00"
+}

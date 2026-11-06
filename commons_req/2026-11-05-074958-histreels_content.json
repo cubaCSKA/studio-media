@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-05-074958-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "gander",
+   "category": "Gander International Airport 2001",
+   "query": "Operation Yellow Ribbon Gander"
+  },
+  {
+   "id": "finnkids",
+   "category": "Finnish war children",
+   "query": "Finnish children evacuated to Sweden"
+  },
+  {
+   "id": "stkilda",
+   "category": "Evacuation of St Kilda",
+   "query": "St Kilda 1930 evacuation"
+  },
+  {
+   "id": "gustloff",
+   "category": "Wilhelm Gustloff",
+   "query": "MV Wilhelm Gustloff"
+  },
+  {
+   "id": "flyingent",
+   "category": "Flying Enterprise",
+   "query": "Kurt Carlsen Flying Enterprise 1952"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-05T07:49:58+00:00"
+}

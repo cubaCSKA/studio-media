@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-05-194314-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "belka",
+   "category": "Belka and Strelka",
+   "query": "Belka Strelka Soviet space dogs 1960"
+  },
+  {
+   "id": "ham",
+   "category": "Ham (chimpanzee)",
+   "query": "Ham chimpanzee Mercury 1961"
+  },
+  {
+   "id": "warsaw",
+   "category": "Warsaw Uprising",
+   "query": "Warsaw Uprising 1944 insurgents"
+  },
+  {
+   "id": "lostsq",
+   "category": "Glacier Girl",
+   "query": "Lost Squadron P-38 Greenland"
+  },
+  {
+   "id": "malta",
+   "category": "Siege of Malta (1940-1942)",
+   "query": "Malta George Cross 1942"
+  },
+  {
+   "id": "brest",
+   "category": "Brest Fortress",
+   "query": "Defense of Brest Fortress 1941"
+  },
+  {
+   "id": "bob",
+   "category": "Battle of Britain",
+   "query": "Battle of Britain 1940 pilots Spitfire"
+  },
+  {
+   "id": "gander",
+   "category": "Gander International Airport",
+   "query": "Operation Yellow Ribbon Gander 2001"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-05T19:43:14+00:00"
+}

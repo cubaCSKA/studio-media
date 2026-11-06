@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-06-074543-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "chambon",
+   "category": "Le Chambon-sur-Lignon",
+   "query": "Le Chambon-sur-Lignon Righteous Among the Nations"
+  },
+  {
+   "id": "hofeng",
+   "category": "Ho Feng-Shan",
+   "query": "Ho Feng-Shan Vienna visas Jews"
+  },
+  {
+   "id": "pankiewicz",
+   "category": "Tadeusz Pankiewicz",
+   "query": "Apteka pod Orłem Kraków ghetto"
+  },
+  {
+   "id": "karski",
+   "category": "Jan Karski",
+   "query": "Jan Karski Warsaw ghetto"
+  },
+  {
+   "id": "villaemma",
+   "category": "Villa Emma Nonantola",
+   "query": "Villa Emma children Nonantola 1943"
+  },
+  {
+   "id": "bielski2",
+   "category": "Bielski brothers",
+   "query": "Tuvia Bielski partisans"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-06T07:45:43+00:00"
+}

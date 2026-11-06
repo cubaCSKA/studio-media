@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-30-075901-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pedropan",
+   "category": "Category:Operation Pedro Pan",
+   "query": "Operation Pedro Pan Cuban children 1960"
+  },
+  {
+   "id": "perlasca",
+   "category": "Category:Giorgio Perlasca",
+   "query": "Giorgio Perlasca Budapest 1944"
+  },
+  {
+   "id": "hofeng",
+   "category": "Category:Ho Feng-Shan",
+   "query": "Ho Feng-Shan Vienna visas"
+  },
+  {
+   "id": "gander",
+   "category": "Category:Gander International Airport",
+   "query": "Gander 9/11 diverted flights"
+  },
+  {
+   "id": "seacole",
+   "category": "Category:Mary Seacole",
+   "query": "Mary Seacole Crimean War"
+  },
+  {
+   "id": "hump",
+   "category": "Category:The Hump",
+   "query": "Hump airlift China India 1943"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-30T07:59:01+00:00"
+}

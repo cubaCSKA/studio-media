@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-03-193449-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "danes43",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews rescue 1943 Sweden boats"
+  },
+  {
+   "id": "fry",
+   "category": "Varian Fry",
+   "query": "Varian Fry Emergency Rescue Committee"
+  },
+  {
+   "id": "perlasca",
+   "category": "Giorgio Perlasca",
+   "query": "Perlasca Budapest 1944"
+  },
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine rescue",
+   "query": "Quecreek mine rescue 2002"
+  },
+  {
+   "id": "bielski",
+   "category": "Bielski partisans",
+   "query": "Bielski partisans Naliboki forest"
+  },
+  {
+   "id": "chambon",
+   "category": "Le Chambon-sur-Lignon",
+   "query": "Le Chambon-sur-Lignon Jews rescue"
+  },
+  {
+   "id": "gustloff",
+   "category": "Wilhelm Gustloff (ship)",
+   "query": "Wilhelm Gustloff ship 1945"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-03T19:34:49+00:00"
+}

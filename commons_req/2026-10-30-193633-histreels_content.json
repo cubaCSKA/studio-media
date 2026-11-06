@@ -1,0 +1,13 @@
+{
+ "id": "2026-10-30-193633-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler factory Krakow"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-30T19:36:33+00:00"
+}

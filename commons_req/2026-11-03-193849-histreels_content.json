@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-03-193849-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "kinder2",
+   "category": "Kindertransport",
+   "query": "Kindertransport children 1939"
+  },
+  {
+   "id": "greatescape",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III 1944"
+  },
+  {
+   "id": "republic09",
+   "category": "RMS Republic (1903)",
+   "query": "RMS Republic 1909 collision Florida"
+  },
+  {
+   "id": "stlouis",
+   "category": "MS St. Louis (1928)",
+   "query": "MS St. Louis 1939 refugees Havana"
+  },
+  {
+   "id": "malta",
+   "category": "George Cross Malta",
+   "query": "Malta siege 1942 Pedestal"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-03T19:38:49+00:00"
+}

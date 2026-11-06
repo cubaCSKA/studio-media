@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-03-073713-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "anning",
+   "category": "Mary Anning",
+   "query": "Mary Anning fossil Lyme Regis"
+  },
+  {
+   "id": "henson",
+   "category": "Matthew Henson",
+   "query": "Matthew Henson Arctic Peary"
+  },
+  {
+   "id": "sibiryakov",
+   "category": "Aleksandr Sibiryakov (ship, 1909)",
+   "query": "icebreaker Sibiryakov 1932 Arctic"
+  },
+  {
+   "id": "sf1906",
+   "category": "1906 San Francisco earthquake",
+   "query": "San Francisco 1906 earthquake fire ruins"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-03T07:37:13+00:00"
+}

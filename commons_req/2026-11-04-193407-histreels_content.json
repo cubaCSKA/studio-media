@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-04-193407-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "halyard",
+   "category": "Operation Halyard",
+   "query": "Halyard Mission 1944 airmen Pranjani"
+  },
+  {
+   "id": "shetland",
+   "category": "Shetland Bus",
+   "query": "Shetland Bus Norwegian fishing boats"
+  },
+  {
+   "id": "stalag",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Schindler factory Kraków"
+  },
+  {
+   "id": "tehrankids",
+   "category": "Polish children Isfahan",
+   "query": "Polish refugees Iran 1942"
+  },
+  {
+   "id": "danes",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews 1943 Sweden boats"
+  },
+  {
+   "id": "sweden45",
+   "category": "Swedish Red Cross White Buses",
+   "query": "Folke Bernadotte 1945"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-04T19:34:07+00:00"
+}

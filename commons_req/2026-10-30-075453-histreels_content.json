@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-30-075453-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "ofl",
+   "category": "Category:Hugh O'Flaherty",
+   "query": "Hugh O'Flaherty Vatican"
+  },
+  {
+   "id": "musadag",
+   "category": "Category:Musa Dagh",
+   "query": "Musa Dagh 1915 Armenian"
+  },
+  {
+   "id": "chambon",
+   "category": "Category:Le Chambon-sur-Lignon",
+   "query": "Le Chambon-sur-Lignon Righteous"
+  },
+  {
+   "id": "moses84",
+   "category": "Category:Operation Moses",
+   "query": "Operation Moses Ethiopian Jews 1984"
+  },
+  {
+   "id": "hamburg62",
+   "category": "Category:Hamburg flood of 1962",
+   "query": "Sturmflut Hamburg 1962"
+  },
+  {
+   "id": "lipizzan",
+   "category": "Category:Lipizzan",
+   "query": "Operation Cowboy Lipizzaner 1945 Patton"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-30T07:54:53+00:00"
+}

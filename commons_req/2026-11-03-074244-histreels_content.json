@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-03-074244-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "halvorsen",
+   "category": "Gail Halvorsen",
+   "query": "Operation Vittles Candy Bomber Halvorsen"
+  },
+  {
+   "id": "gander",
+   "category": "Operation Yellow Ribbon",
+   "query": "Gander 9/11 diverted flights Newfoundland"
+  },
+  {
+   "id": "jenner",
+   "category": "Edward Jenner",
+   "query": "Edward Jenner smallpox vaccination Gillray"
+  },
+  {
+   "id": "quimby",
+   "category": "Harriet Quimby",
+   "query": "Harriet Quimby aviator 1911"
+  },
+  {
+   "id": "bcoleman",
+   "category": "Bessie Coleman",
+   "query": "Bessie Coleman aviator"
+  },
+  {
+   "id": "mariel",
+   "category": "Mariel boatlift",
+   "query": "Mariel boatlift 1980 boats"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-03T07:42:44+00:00"
+}

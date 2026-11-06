@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-073454-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pendleton",
+   "category": "SS Pendleton",
+   "query": "Pendleton Chatham 1952"
+  },
+  {
+   "id": "springhill",
+   "category": "Springhill mining disaster",
+   "query": "Springhill Nova Scotia mine"
+  },
+  {
+   "id": "moses",
+   "category": "Operation Moses",
+   "query": "Ethiopian Jews Operation"
+  },
+  {
+   "id": "louvre",
+   "category": "Louvre during World War II",
+   "query": "Mona Lisa evacuation 1939"
+  },
+  {
+   "id": "hermitage",
+   "category": "Hermitage evacuation 1941",
+   "query": "Hermitage Museum siege Leningrad"
+  },
+  {
+   "id": "balloon",
+   "category": "Ballonflucht DDR",
+   "query": "East German balloon escape 1979"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Schindler list Krakow"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-05T07:34:54+00:00"
+}

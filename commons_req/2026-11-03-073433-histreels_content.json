@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-03-073433-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "winton",
+   "category": "Nicholas Winton",
+   "query": "Nicholas Winton Kindertransport"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler factory Kraków"
+  },
+  {
+   "id": "copiapo",
+   "category": "2010 Copiapó mining accident",
+   "query": "Chile miners rescue 2010 Fénix capsule"
+  },
+  {
+   "id": "galveston",
+   "category": "1900 Galveston hurricane",
+   "query": "Galveston 1900 storm ruins"
+  },
+  {
+   "id": "lutz",
+   "category": "Carl Lutz",
+   "query": "Carl Lutz Budapest glass house"
+  },
+  {
+   "id": "wallenberg",
+   "category": "Raoul Wallenberg",
+   "query": "Raoul Wallenberg Budapest 1944"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-03T07:34:33+00:00"
+}

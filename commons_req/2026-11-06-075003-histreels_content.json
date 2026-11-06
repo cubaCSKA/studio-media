@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-06-075003-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pedropan",
+   "category": "Operation Peter Pan",
+   "query": "Operation Pedro Pan Cuban children Miami"
+  },
+  {
+   "id": "halvorsen",
+   "category": "Gail Halvorsen",
+   "query": "Operation Vittles candy bomber Halvorsen"
+  },
+  {
+   "id": "miep",
+   "category": "Miep Gies",
+   "query": "Miep Gies Anne Frank helpers"
+  },
+  {
+   "id": "roncalli",
+   "category": "Angelo Giuseppe Roncalli",
+   "query": "Angelo Roncalli Istanbul Jews visas"
+  },
+  {
+   "id": "perlasca",
+   "category": "Giorgio Perlasca",
+   "query": "Giorgio Perlasca Budapest 1944"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-06T07:50:03+00:00"
+}

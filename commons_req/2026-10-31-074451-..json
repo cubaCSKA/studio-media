@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-31-074451-.",
+ "channel_dir": ".",
+ "topics": [
+  {
+   "id": "danes43",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews rescue 1943 Sweden boats"
+  },
+  {
+   "id": "stkilda",
+   "category": "Evacuation of St Kilda",
+   "query": "St Kilda evacuation 1930"
+  },
+  {
+   "id": "republic",
+   "category": "RMS Republic (1903)",
+   "query": "RMS Republic 1909 collision"
+  },
+  {
+   "id": "gander",
+   "category": "Gander International Airport",
+   "query": "Gander 9/11 diverted aircraft"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Schindler list factory Krakow"
+  },
+  {
+   "id": "thompson",
+   "category": "Hugh Thompson Jr.",
+   "query": "My Lai Hugh Thompson helicopter"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-31T07:44:51+00:00"
+}

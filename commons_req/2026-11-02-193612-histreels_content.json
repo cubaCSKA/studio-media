@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-02-193612-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "fangio",
+   "category": "Juan Manuel Fangio",
+   "query": "Fangio 1958 Havana"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler factory Krakow"
+  },
+  {
+   "id": "blondin",
+   "category": "Charles Blondin",
+   "query": "Blondin Niagara tightrope"
+  },
+  {
+   "id": "witches",
+   "category": "Night Witches",
+   "query": "588th Night Bomber Regiment"
+  },
+  {
+   "id": "seacole",
+   "category": "Mary Seacole",
+   "query": "Mary Seacole Crimean War"
+  },
+  {
+   "id": "litvyak",
+   "category": "Lydia Litvyak",
+   "query": "Soviet female fighter pilots WWII"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-02T19:36:12+00:00"
+}

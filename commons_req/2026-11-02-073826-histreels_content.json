@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-02-073826-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "jessop",
+   "category": "Violet Jessop",
+   "query": "Violet Jessop stewardess Titanic Britannic"
+  },
+  {
+   "id": "togo",
+   "category": "Togo (dog)",
+   "query": "Togo sled dog Seppala 1925 serum run"
+  },
+  {
+   "id": "slocum",
+   "category": "Joshua Slocum",
+   "query": "Spray sloop Joshua Slocum"
+  },
+  {
+   "id": "benz",
+   "category": "Bertha Benz",
+   "query": "Benz Patent-Motorwagen 1888"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-02T07:38:26+00:00"
+}

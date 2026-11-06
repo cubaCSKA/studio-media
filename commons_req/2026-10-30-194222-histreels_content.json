@@ -1,0 +1,23 @@
+{
+ "id": "2026-10-30-194222-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "greatescape",
+   "category": "Stalag Luft III",
+   "query": "Great Escape Stalag Luft III 1944 tunnel"
+  },
+  {
+   "id": "losbanos",
+   "category": "Los Baños Internment Camp",
+   "query": "Raid at Los Baños 1945 paratroopers"
+  },
+  {
+   "id": "caper",
+   "category": "Canadian Caper",
+   "query": "Ken Taylor Canadian ambassador Tehran 1979 Canadian Caper"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-10-30T19:42:22+00:00"
+}

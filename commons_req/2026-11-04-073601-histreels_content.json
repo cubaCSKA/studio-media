@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-04-073601-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "danish2",
+   "category": "Danish resistance movement",
+   "query": "Danish Jews October 1943 flight Sweden"
+  },
+  {
+   "id": "pedro2",
+   "category": "Cuban exiles in Miami 1960s",
+   "query": "Pedro Pan Cuban refugee children Miami"
+  },
+  {
+   "id": "orphan2",
+   "category": "Orphan Train Movement",
+   "query": "Children's Aid Society Lewis Hine orphan train"
+  },
+  {
+   "id": "queck2",
+   "category": "Quecreek Mine Rescue",
+   "query": "Quecreek Mine Rescue Somerset"
+  },
+  {
+   "id": "lostbn2",
+   "category": "Lost Battalion (World War I)",
+   "query": "77th Division Argonne 1918 Whittlesey"
+  },
+  {
+   "id": "kindert",
+   "category": "Wilhelm Gustloff",
+   "query": "Wilhelm Gustloff sinking"
+  },
+  {
+   "id": "miner",
+   "category": "Rescue of Chilean miners",
+   "query": "Operation San Lorenzo 2010 Copiapó"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-04T07:36:01+00:00"
+}

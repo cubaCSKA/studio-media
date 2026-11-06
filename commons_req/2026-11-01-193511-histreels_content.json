@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-01-193511-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pendleton",
+   "category": "SS Pendleton",
+   "query": "Pendleton CG-36500 Chatham 1952 rescue"
+  },
+  {
+   "id": "flyingent",
+   "category": "Flying Enterprise (ship, 1944)",
+   "query": "Flying Enterprise Carlsen 1952"
+  },
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine",
+   "query": "Quecreek Mine rescue 2002"
+  },
+  {
+   "id": "corfu16",
+   "category": "Serbian Army in World War I",
+   "query": "Serbian army Corfu 1916 evacuation"
+  },
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Oskar Schindler Schindlerjuden"
+  },
+  {
+   "id": "peterpan",
+   "category": "Operation Pedro Pan",
+   "query": "Operation Pedro Pan Cuban children Miami"
+  },
+  {
+   "id": "elba",
+   "category": "Napoleon on Elba",
+   "query": "Napoleon Elba 1815 escape"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-01T19:35:11+00:00"
+}

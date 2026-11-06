@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-05-195526-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "belka",
+   "category": "Belka and Strelka",
+   "query": "Belka Strelka Soviet space dogs 1960"
+  },
+  {
+   "id": "warsaw",
+   "category": "Warsaw Uprising",
+   "query": "Warsaw Uprising 1944 insurgents"
+  },
+  {
+   "id": "malta",
+   "category": "Siege of Malta (1940-1942)",
+   "query": "Malta George Cross 1942"
+  },
+  {
+   "id": "bob",
+   "category": "Battle of Britain",
+   "query": "Battle of Britain 1940 pilots Spitfire"
+  },
+  {
+   "id": "lostsq",
+   "category": "Glacier Girl",
+   "query": "Lost Squadron P-38 Greenland"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-05T19:55:26+00:00"
+}

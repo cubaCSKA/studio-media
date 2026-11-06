@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-02-073657-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "danish43",
+   "category": "Rescue of the Danish Jews",
+   "query": "Danish Jews 1943 Sweden fishing boats"
+  },
+  {
+   "id": "karski",
+   "category": "Jan Karski",
+   "query": "Jan Karski Polish courier"
+  },
+  {
+   "id": "stlouis39",
+   "category": "MS St. Louis (ship, 1928)",
+   "query": "SS St. Louis 1939 refugees Havana"
+  },
+  {
+   "id": "pt109",
+   "category": "PT-109",
+   "query": "PT-109 Kennedy Solomon Islands"
+  },
+  {
+   "id": "balloon79",
+   "category": "Balloon flights over the Berlin Wall",
+   "query": "East Germany balloon escape 1979"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-02T07:36:57+00:00"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-05-200426-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "ham",
+   "category": "Ham (chimpanzee)",
+   "query": "Ham chimpanzee Mercury 1961"
+  },
+  {
+   "id": "brest",
+   "category": "Brest Fortress",
+   "query": "Brest Fortress 1941 defenders"
+  },
+  {
+   "id": "gander",
+   "category": "Gander International Airport",
+   "query": "Operation Yellow Ribbon Gander 2001"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-05T20:04:26+00:00"
+}

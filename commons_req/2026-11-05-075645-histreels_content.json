@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-05-075645-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "orphan",
+   "category": "Orphan trains",
+   "query": "Orphan Train children"
+  },
+  {
+   "id": "pedropan",
+   "category": "Operation Pedro Pan",
+   "query": "Pedro Pan Cuban children 1961"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-05T07:56:45+00:00"
+}
