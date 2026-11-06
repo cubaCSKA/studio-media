@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-06-194521-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "kiddycar",
+   "category": "Kiddy Car Airlift",
+   "query": "Korean orphans airlift Jeju 1950"
+  },
+  {
+   "id": "losbanos",
+   "category": "Raid at Los Baños",
+   "query": "Los Baños internment camp rescue 1945"
+  },
+  {
+   "id": "passage54",
+   "category": "Operation Passage to Freedom",
+   "query": "Operation Passage to Freedom 1954 Haiphong refugees"
+  },
+  {
+   "id": "eaglepull",
+   "category": "Operation Eagle Pull",
+   "query": "Phnom Penh evacuation 1975"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-06T19:45:21+00:00"
+}
