@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-06-195148-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "nerelief",
+   "category": "Near East Relief",
+   "query": "Near East Relief Armenian orphans"
+  },
+  {
+   "id": "stilwell",
+   "category": "Stilwell walkout",
+   "query": "Joseph Stilwell Burma retreat 1942"
+  },
+  {
+   "id": "hannibal",
+   "category": "Operation Hannibal",
+   "query": "Operation Hannibal 1945 evacuation East Prussia"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-06T19:51:48+00:00"
+}
