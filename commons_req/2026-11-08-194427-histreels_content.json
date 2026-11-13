@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-08-194427-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "retirada",
+   "category": "Retirada",
+   "query": "Spanish Republican exiles 1939 France"
+  },
+  {
+   "id": "benares",
+   "category": "SS City of Benares",
+   "query": "City of Benares survivors 1940"
+  },
+  {
+   "id": "greekturk",
+   "category": "Population exchange between Greece and Turkey",
+   "query": "Greek refugees 1923"
+  },
+  {
+   "id": "eprussia",
+   "category": "Flight and expulsion from East Prussia",
+   "query": "East Prussia refugees 1945"
+  },
+  {
+   "id": "gibraltar",
+   "category": "Evacuation of Gibraltar",
+   "query": "Gibraltar civilians evacuation 1940"
+  },
+  {
+   "id": "channel40",
+   "category": "Evacuation of the Channel Islands",
+   "query": "Channel Islands evacuees 1940"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-08T19:44:27+00:00"
+}

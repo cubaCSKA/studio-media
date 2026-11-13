@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-08-195249-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "tengeru",
+   "category": "Tengeru",
+   "query": "Polish refugees Tengeru Tanganyika"
+  },
+  {
+   "id": "sosua",
+   "category": "Sosúa",
+   "query": "Jewish refugees Sosúa Dominican Republic"
+  },
+  {
+   "id": "valivade",
+   "category": "Valivade",
+   "query": "Polish refugees Kolhapur India 1943"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-08T19:52:49+00:00"
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-07-194659-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Schindler's Enamel Factory"
+  },
+  {
+   "id": "kilmer",
+   "category": "Camp Kilmer Hungarian refugees 1956",
+   "query": "Hungarian refugees Camp Kilmer"
+  },
+  {
+   "id": "zwart",
+   "category": "Jan Zwartendijk",
+   "query": "Curaçao visas Kaunas 1940"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-07T19:46:59+00:00"
+}

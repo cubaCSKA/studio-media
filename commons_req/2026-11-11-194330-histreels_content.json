@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-11-194330-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "lapland44",
+   "category": "Lapland War evacuation",
+   "query": "Evacuation of Lapland 1944 Finland refugees"
+  },
+  {
+   "id": "finnmark44",
+   "category": "Forced evacuation of Finnmark",
+   "query": "Finnmark 1944 evacuation Norway"
+  },
+  {
+   "id": "nikkei42",
+   "category": "Japanese American internment",
+   "query": "Japanese Americans evacuation 1942 Manzanar"
+  },
+  {
+   "id": "aleut42",
+   "category": "Aleut evacuation",
+   "query": "Aleuts Pribilof evacuation 1942"
+  },
+  {
+   "id": "mennon29",
+   "category": "Mennonites 1929 Moscow",
+   "query": "Mennonite refugees Moscow 1929"
+  },
+  {
+   "id": "bonus32",
+   "category": "Bonus Army",
+   "query": "Bonus Army 1932 Washington"
+  },
+  {
+   "id": "shanghai39",
+   "category": "Shanghai Ghetto",
+   "query": "Jewish refugees Shanghai Hongkew"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-11T19:43:30+00:00"
+}

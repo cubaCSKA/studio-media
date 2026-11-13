@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-13-195158-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "bu45",
+   "category": "Buchenwald children 1945",
+   "query": "Buchenwald boys Ecouis OSE 1945"
+  },
+  {
+   "id": "morelia37",
+   "category": "Niños de Morelia",
+   "query": "Spanish Civil War children Mexico Morelia 1937"
+  },
+  {
+   "id": "hungerw",
+   "category": "Dutch famine 1944-1945",
+   "query": "Hunger winter children Netherlands 1945"
+  },
+  {
+   "id": "corfu",
+   "category": "Armenian orphans Corfu",
+   "query": "Near East Relief Corfu orphans 1923"
+  },
+  {
+   "id": "swissk",
+   "category": "Red Cross children trains 1945",
+   "query": "Swiss Red Cross children 1945 Kinderzug"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-13T19:51:58+00:00"
+}

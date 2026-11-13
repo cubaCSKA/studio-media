@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-12-194050-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "bangla71",
+   "category": "Refugees of the Bangladesh Liberation War",
+   "query": "Bangladesh refugees 1971 India camp"
+  },
+  {
+   "id": "tibref",
+   "category": "Tibetan refugees",
+   "query": "Tibetan refugees India 1960 camp children"
+  },
+  {
+   "id": "biafra",
+   "category": "Biafra airlift",
+   "query": "Biafra starvation children relief 1968"
+  },
+  {
+   "id": "retorn75",
+   "category": "Retornados",
+   "query": "Portuguese retornados 1975 Angola airlift Lisbon"
+  },
+  {
+   "id": "camar65",
+   "category": "Camarioca boatlift",
+   "query": "Cuban refugees boatlift 1965 Camarioca Freedom Flights"
+  },
+  {
+   "id": "tsushima",
+   "category": "Tsushima Maru",
+   "query": "Tsushima-maru 1944 children evacuation Okinawa"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-12T19:40:50+00:00"
+}

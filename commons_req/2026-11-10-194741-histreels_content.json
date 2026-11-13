@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-10-194741-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "balloon79",
+   "category": "Strelzyk Wetzel balloon escape",
+   "query": "Ballonflucht 1979 DDR Strelzyk Wetzel"
+  },
+  {
+   "id": "quecreek",
+   "category": "Quecreek Mine rescue",
+   "query": "Quecreek Mine 2002 rescue"
+  },
+  {
+   "id": "lancastria",
+   "category": "RMS Lancastria",
+   "query": "Lancastria 1940 Saint-Nazaire"
+  },
+  {
+   "id": "shanghai",
+   "category": "Shanghai Ghetto",
+   "query": "Shanghai Ghetto Jewish refugees 1943"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-10T19:47:41+00:00"
+}

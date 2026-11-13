@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-08-193538-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "chambon",
+   "category": "Le Chambon-sur-Lignon",
+   "query": "Chambon-sur-Lignon Jewish children rescue"
+  },
+  {
+   "id": "ezra",
+   "category": "Operation Ezra and Nehemiah",
+   "query": "Iraqi Jews airlift 1951"
+  },
+  {
+   "id": "kasztner",
+   "category": "Kasztner train",
+   "query": "Bergen-Belsen Hungarian Jews Switzerland 1944"
+  },
+  {
+   "id": "estonia44",
+   "category": "Estonian refugees 1944",
+   "query": "Estonian refugees boats Sweden 1944"
+  },
+  {
+   "id": "moses84",
+   "category": "Operation Moses",
+   "query": "Ethiopian Jews Sudan 1984"
+  },
+  {
+   "id": "yachin",
+   "category": "Operation Yachin",
+   "query": "Moroccan Jews emigration 1961"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-08T19:35:38+00:00"
+}

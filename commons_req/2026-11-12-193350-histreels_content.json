@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-12-193350-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "factory41",
+   "category": "Evacuation of industry in the Soviet Union",
+   "query": "evacuation 1941 factories trains Urals"
+  },
+  {
+   "id": "dalai59",
+   "category": "Tibetan uprising 1959",
+   "query": "Dalai Lama flight 1959 India refugees"
+  },
+  {
+   "id": "gibraltar40",
+   "category": "Evacuation of Gibraltar",
+   "query": "Gibraltar civilians evacuated 1940"
+  },
+  {
+   "id": "finnmark44",
+   "category": "Finnmark",
+   "query": "Finnmark evacuation 1944 burned"
+  },
+  {
+   "id": "hung56",
+   "category": "Hungarian Revolution of 1956 refugees",
+   "query": "Hungarian refugees Andau 1956"
+  },
+  {
+   "id": "pola47",
+   "category": "Pola exodus",
+   "query": "Istrian Italian exodus 1947 Pola Toscana ship"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-12T19:33:50+00:00"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-12-151038-up",
+ "requested_at": "2026-11-12T15:10:38+00:00",
+ "jobs": [
+  {
+   "id": "jl-triple",
+   "src": "jimm_lab/src/jl-triple.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-12/2026-11-12-151038-up_jl-triple.mp4",
+   "w": 640,
+   "h": 480,
+   "frames": 295,
+   "dur": 9.95
+  },
+  {
+   "id": "jl-spectre",
+   "src": "jimm_lab/src/jl-spectre.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-12/2026-11-12-151038-up_jl-spectre.mp4",
+   "w": 600,
+   "h": 332,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-audi",
+   "why": "окно 712 px ≥ 700"
+  },
+  {
+   "id": "jl-oxpecker",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "jl-dragonfly",
+   "why": "окно 708 px ≥ 700"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-13-075431-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "ninos37",
+   "category": "Niños de Rusia",
+   "query": "Spanish Civil War children evacuated to Soviet Union"
+  },
+  {
+   "id": "burma42",
+   "category": "Indian exodus from Burma",
+   "query": "Indian refugees Burma 1942"
+  },
+  {
+   "id": "strasb39",
+   "category": "Evacuation of Strasbourg",
+   "query": "Strasbourg 1939 evacuation"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-13T07:54:31+00:00"
+}

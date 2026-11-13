@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-11-151002-up",
+ "requested_at": "2026-11-11T15:10:02+00:00",
+ "jobs": [
+  {
+   "id": "jl-ronaldo",
+   "src": "jimm_lab/src/jl-ronaldo.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-11/2026-11-11-151002-up_jl-ronaldo.mp4",
+   "w": 560,
+   "h": 564,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-courier",
+   "src": "jimm_lab/src/jl-courier.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-11/2026-11-11-151002-up_jl-courier.mp4",
+   "w": 590,
+   "h": 790,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-judge",
+   "why": "окно 712 px ≥ 700"
+  },
+  {
+   "id": "jl-otter",
+   "why": "окно 712 px ≥ 700"
+  },
+  {
+   "id": "jl-disney",
+   "why": "окно 712 px ≥ 700"
+  }
+ ]
+}

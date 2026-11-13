@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-13-194233-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "anders42",
+   "category": "Anders Army",
+   "query": "Anders Army Tehran 1942 Polish refugees"
+  },
+  {
+   "id": "khmer79",
+   "category": "Khao-I-Dang",
+   "query": "Cambodian refugees Thailand 1979"
+  },
+  {
+   "id": "sudeten45",
+   "category": "Expulsion of Germans from Czechoslovakia",
+   "query": "Sudeten Germans expulsion 1945"
+  },
+  {
+   "id": "hmong75",
+   "category": "Hmong refugees",
+   "query": "Hmong refugees Thailand Ban Vinai"
+  },
+  {
+   "id": "dunera40",
+   "category": "HMT Dunera",
+   "query": "Dunera boys Hay internment camp"
+  },
+  {
+   "id": "trail1838",
+   "category": "Trail of Tears",
+   "query": "Cherokee removal 1838 Trail of Tears"
+  },
+  {
+   "id": "istria47",
+   "category": "Istrian-Dalmatian exodus",
+   "query": "Esuli giuliani Pola 1947"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-13T19:42:33+00:00"
+}

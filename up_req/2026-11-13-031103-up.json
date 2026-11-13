@@ -1,0 +1,16 @@
+{
+ "id": "2026-11-13-031103-up",
+ "requested_at": "2026-11-13T03:11:03+00:00",
+ "jobs": [
+  {
+   "id": "jl-pelican",
+   "src": "jimm_lab/src/pelican.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-13/2026-11-13-031103-up_jl-pelican.mp4",
+   "w": 670,
+   "h": 846,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": []
+}

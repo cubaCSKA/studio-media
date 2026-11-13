@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-11-075249-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "uganda72",
+   "category": "Expulsion of Asians from Uganda",
+   "query": "Ugandan Asians 1972 refugees"
+  },
+  {
+   "id": "partition47",
+   "category": "Partition of India refugees",
+   "query": "1947 partition refugees Punjab"
+  },
+  {
+   "id": "pieds62",
+   "category": "Pieds-noirs exodus",
+   "query": "Pieds-Noirs 1962 Marseille Algeria departure"
+  },
+  {
+   "id": "sultana",
+   "category": "Sultana (steamboat)",
+   "query": "Sultana 1865 Mississippi explosion"
+  },
+  {
+   "id": "jeannette",
+   "category": "Jeannette expedition",
+   "query": "USS Jeannette Arctic De Long"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-11T07:52:49+00:00"
+}

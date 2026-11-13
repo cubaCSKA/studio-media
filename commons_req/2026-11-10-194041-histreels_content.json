@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-10-194041-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "schindler",
+   "category": "Oskar Schindler",
+   "query": "Schindler's List workers Emalia"
+  },
+  {
+   "id": "fry",
+   "category": "Varian Fry",
+   "query": "Varian Fry Marseille Emergency Rescue Committee"
+  },
+  {
+   "id": "perlasca",
+   "category": "Giorgio Perlasca",
+   "query": "Perlasca Budapest 1944"
+  },
+  {
+   "id": "morelia",
+   "category": "Niños de Morelia",
+   "query": "Spanish Civil War refugee children Mexico 1937"
+  },
+  {
+   "id": "biafra",
+   "category": "Biafran airlift",
+   "query": "Biafra relief flights 1968"
+  },
+  {
+   "id": "zakynthos",
+   "category": "Zakynthos Jews",
+   "query": "Zakynthos 1943 Jews saved"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-10T19:40:41+00:00"
+}

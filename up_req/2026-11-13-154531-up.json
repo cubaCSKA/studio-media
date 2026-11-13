@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-13-154531-up",
+ "requested_at": "2026-11-13T15:45:31+00:00",
+ "jobs": [
+  {
+   "id": "DcKLFs1xOit",
+   "src": "jimm_lab/src/DcKLFs1xOit.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-13/2026-11-13-154531-up_DcKLFs1xOit.mp4",
+   "w": 556,
+   "h": 728,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "DVoiKgzjMOM",
+   "src": "jimm_lab/src/DVoiKgzjMOM.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-13/2026-11-13-154531-up_DVoiKgzjMOM.mp4",
+   "w": 608,
+   "h": 548,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "DXwPngYzv8X",
+   "src": "jimm_lab/src/DXwPngYzv8X.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-13/2026-11-13-154531-up_DXwPngYzv8X.mp4",
+   "w": 602,
+   "h": 440,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "Dfp1mfgN5k4",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "DfrorNrNT5n",
+   "why": "окно 712 px ≥ 700"
+  }
+ ]
+}

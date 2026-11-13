@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-11-193441-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pieds",
+   "category": "Pieds-noirs",
+   "query": "Algeria 1962 exodus pieds-noirs Marseille"
+  },
+  {
+   "id": "karelia40",
+   "category": "Evacuation of Karelia",
+   "query": "Karelian evacuees 1940 Finland"
+  },
+  {
+   "id": "ezra",
+   "category": "Operation Ezra and Nehemiah",
+   "query": "Iraqi Jews airlift 1951"
+  },
+  {
+   "id": "bizerte",
+   "category": "Wrangel's fleet Bizerte",
+   "query": "Russian fleet Bizerte 1920"
+  },
+  {
+   "id": "springhill",
+   "category": "Springhill mining disaster",
+   "query": "Springhill 1958 miners rescued"
+  },
+  {
+   "id": "burma42",
+   "category": "Indian exodus from Burma",
+   "query": "Burma refugees 1942"
+  },
+  {
+   "id": "hkflight",
+   "category": "Hong Kong refugees 1962",
+   "query": "Hong Kong 1962 Chinese refugees Shenzhen border"
+  },
+  {
+   "id": "kriegsend",
+   "category": "Evacuation of Danzig 1945",
+   "query": "Pillau evacuation 1945 refugees ships"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-11T19:34:41+00:00"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-11-073759-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pedropan",
+   "category": "Operation Pedro Pan",
+   "query": "Pedro Pan Cuban children Miami 1960"
+  },
+  {
+   "id": "orphantrains",
+   "category": "Orphan trains",
+   "query": "Orphan Train children Lewis Hine"
+  },
+  {
+   "id": "chambon",
+   "category": "Le Chambon-sur-Lignon",
+   "query": "Chambon-sur-Lignon Jews rescue"
+  },
+  {
+   "id": "gander",
+   "category": "Operation Yellow Ribbon",
+   "query": "Gander airport September 11 2001"
+  },
+  {
+   "id": "moses84",
+   "category": "Operation Moses",
+   "query": "Ethiopian Jews Operation Moses 1984"
+  },
+  {
+   "id": "ezra51",
+   "category": "Operation Ezra and Nehemiah",
+   "query": "Iraqi Jews airlift 1951 Ezra Nehemiah"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-11T07:37:59+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-13-193435-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "grkids48",
+   "category": "Greek Civil War",
+   "query": "Greek Civil War refugees children 1948"
+  },
+  {
+   "id": "paris40",
+   "category": "Exode de 1940",
+   "query": "French exodus 1940 refugees"
+  },
+  {
+   "id": "bangla71",
+   "category": "Bangladesh Liberation War refugees",
+   "query": "Bangladesh refugees 1971"
+  },
+  {
+   "id": "hongkew",
+   "category": "Shanghai Ghetto",
+   "query": "Shanghai Jewish refugees Hongkew"
+  },
+  {
+   "id": "tashkent42",
+   "category": "Evacuation of Soviet orphans Tashkent",
+   "query": "Tashkent 1942 evacuation children"
+  },
+  {
+   "id": "singapore42",
+   "category": "Fall of Singapore",
+   "query": "Singapore evacuation 1942 Vyner Brooke"
+  },
+  {
+   "id": "aliyahbet",
+   "category": "Aliyah Bet",
+   "query": "illegal immigration ships Palestine 1946"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-13T19:34:35+00:00"
+}

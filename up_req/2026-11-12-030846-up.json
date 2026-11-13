@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-12-030846-up",
+ "requested_at": "2026-11-12T03:08:46+00:00",
+ "jobs": [
+  {
+   "id": "jl1112a_penguins",
+   "src": "jimm_lab/src/DfbFK0BsH24.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-12/2026-11-12-030846-up_jl1112a_penguins.mp4",
+   "w": 664,
+   "h": 430,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl1112a_archerfish",
+   "src": "jimm_lab/src/Db5zkItxrLg.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-12/2026-11-12-030846-up_jl1112a_archerfish.mp4",
+   "w": 564,
+   "h": 722,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl1112a_rotterdam",
+   "src": "jimm_lab/src/DfY07r-MCo6.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-12/2026-11-12-030846-up_jl1112a_rotterdam.mp4",
+   "w": 664,
+   "h": 662,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl1112a_baumgartner",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "jl1112a_pigeon",
+   "why": "окно 708 px ≥ 700"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+name: commons collect
+
+# ПЕРЕНЕСЕНО из cubaCSKA/studio 25.10.2026: у закрытого studio кончились 2000
+# бесплатных минут Actions в месяц, у публичного studio-media минуты не считаются.
+# Код и состояние остаются в закрытом studio: workflow клонирует его секретом
+# STUDIO_TOKEN (запись в cubaCSKA/studio) и туда же пушит результат. Файлы
+# кадров кладутся в этот репозиторий через github.token. Логи здесь публичные —
+# секреты в них не печатать.
+
+# Закачка кандидатов с Wikimedia Commons по запросу облачного прогона
+# (05.10.2026). Облаку Commons отвечает 429 и на поиск, и на картинки:
+# общий адрес. Прогон кладёт запрос файлом commons_req/<id>.json в main
+# этого репозитория, этот workflow качает тем же scripts/collect.py канала, кладёт файлы в
+# studio-media и пишет список ссылок в ветку commons-results. Подробно —
+# shared/commons_remote.py.
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "commons_req/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commons-collect
+  cancel-in-progress: false
+
+jobs:
+  serve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: studio
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: cubaCSKA/studio
+          token: ${{ secrets.STUDIO_TOKEN }}
+          path: studio
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install --quiet pillow requests
+      - name: Collect from Commons
+        env:
+          GH_MEDIA_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.STUDIO_TOKEN }}   # результат — в ветку commons-results studio
+          STUDIO_ROOT: ${{ github.workspace }}/studio
+        run: python3 shared/commons_remote.py serve-event

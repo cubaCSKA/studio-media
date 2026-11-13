@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-10-195207-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "antinoe",
+   "category": "SS Antinoe",
+   "query": "SS President Roosevelt rescue 1926 Antinoe"
+  },
+  {
+   "id": "greekfam",
+   "category": "Greek famine of 1941–1942",
+   "query": "Swedish Red Cross Greece famine 1942 wheat"
+  },
+  {
+   "id": "lecoq",
+   "category": "Operation Cycle (1940)",
+   "query": "Le Havre evacuation 1940 Saint-Valery-en-Caux"
+  },
+  {
+   "id": "ellis97",
+   "category": "Ellis Island fire 1897",
+   "query": "Ellis Island fire 1897 immigrants"
+  },
+  {
+   "id": "nansenarm",
+   "category": "Nansen passport",
+   "query": "Fridtjof Nansen refugees 1922 Nansen passport"
+  },
+  {
+   "id": "wrangel2",
+   "category": "Evacuation of Hiroshima",
+   "query": "x"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-10T19:52:07+00:00"
+}

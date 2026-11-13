@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-13-030858-up",
+ "requested_at": "2026-11-13T03:08:58+00:00",
+ "jobs": [
+  {
+   "id": "jl-pig505",
+   "src": "jimm_lab/src/pig.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-13/2026-11-13-030858-up_jl-pig505.mp4",
+   "w": 680,
+   "h": 904,
+   "frames": 306,
+   "dur": 10.2
+  },
+  {
+   "id": "jl-penguin-ice",
+   "src": "jimm_lab/src/penguin.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-13/2026-11-13-030858-up_jl-penguin-ice.mp4",
+   "w": 672,
+   "h": 604,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-boirault",
+   "src": "jimm_lab/src/boirault.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-13/2026-11-13-030858-up_jl-boirault.mp4",
+   "w": 624,
+   "h": 490,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-copaiba",
+   "why": "окно 712 px ≥ 700"
+  },
+  {
+   "id": "jl-simgold",
+   "why": "окно 708 px ≥ 700"
+  }
+ ]
+}

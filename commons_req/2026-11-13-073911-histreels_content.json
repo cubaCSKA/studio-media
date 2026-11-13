@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-13-073911-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "pedropan",
+   "category": "Operation Pedro Pan",
+   "query": "Pedro Pan Cuban children"
+  },
+  {
+   "id": "zakynthos",
+   "category": "Jews of Zakynthos",
+   "query": "Zakynthos 1943 Jews"
+  },
+  {
+   "id": "chambon",
+   "category": "Le Chambon-sur-Lignon",
+   "query": "Chambon-sur-Lignon Jews"
+  },
+  {
+   "id": "shanghai39",
+   "category": "Shanghai Ghetto",
+   "query": "Jewish refugees Shanghai"
+  },
+  {
+   "id": "kasztner",
+   "category": "Kasztner train",
+   "query": "Bergen-Belsen Kasztner Hungarian Jews"
+  },
+  {
+   "id": "ezra51",
+   "category": "Operation Ezra and Nehemiah",
+   "query": "Iraqi Jews Israel 1951"
+  },
+  {
+   "id": "polishnz",
+   "category": "Polish children in New Zealand",
+   "query": "Pahiatua Polish children"
+  },
+  {
+   "id": "sosua",
+   "category": "Sosúa",
+   "query": "Sosua Jewish refugees"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-13T07:39:11+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-13-074521-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "orphantrain",
+   "category": "Orphan trains",
+   "query": "Orphan Train children"
+  },
+  {
+   "id": "doukhobor",
+   "category": "Doukhobors",
+   "query": "Doukhobor immigrants Canada"
+  },
+  {
+   "id": "mennonite",
+   "category": "Mennonite immigrants Manitoba",
+   "query": "Mennonites 1874 Manitoba"
+  },
+  {
+   "id": "dp45",
+   "category": "Displaced persons camps in Germany",
+   "query": "displaced persons 1945"
+  },
+  {
+   "id": "hunger44",
+   "category": "Dutch famine of 1944-1945",
+   "query": "Hunger winter children Netherlands"
+  },
+  {
+   "id": "lenkids",
+   "category": "Evacuation of children Leningrad 1941",
+   "query": "Leningrad children evacuation"
+  },
+  {
+   "id": "mormon",
+   "category": "Mormon pioneers",
+   "query": "Mormon handcart pioneers"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-13T07:45:21+00:00"
+}

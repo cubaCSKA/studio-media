@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-10-193411-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "kabul29",
+   "category": "Kabul Airlift",
+   "query": "Kabul airlift 1929 Vickers Victoria"
+  },
+  {
+   "id": "stanbrook",
+   "category": "SS Stanbrook",
+   "query": "Stanbrook Alicante refugees 1939"
+  },
+  {
+   "id": "tallinn41",
+   "category": "Evacuation of Tallinn 1941",
+   "query": "Tallinn 1941 evacuation ships"
+  },
+  {
+   "id": "odessa41",
+   "category": "Siege of Odessa (1941)",
+   "query": "Odessa 1941 evacuation"
+  },
+  {
+   "id": "beirut82",
+   "category": "1982 Palestinian evacuation from Beirut",
+   "query": "Beirut 1982 PLO evacuation"
+  },
+  {
+   "id": "vyner",
+   "category": "Vyner Brooke",
+   "query": "Vyner Brooke nurses Bangka"
+  },
+  {
+   "id": "kabul21",
+   "category": "Kabul airlift 2021",
+   "query": "Kabul evacuation 2021 C-17"
+  },
+  {
+   "id": "saigon_orph",
+   "category": "Operation Babylift",
+   "query": "Operation Babylift 1975"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-10T19:34:11+00:00"
+}

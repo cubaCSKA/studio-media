@@ -1,0 +1,21 @@
+{
+ "id": "2026-11-08-180535-up",
+ "requested_at": "2026-11-08T18:05:35+00:00",
+ "jobs": [
+  {
+   "id": "test-mramor",
+   "src": "jimm_lab/src/test-mramor.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-08/2026-11-08-180535-up_test-mramor.mp4",
+   "w": 590,
+   "h": 856,
+   "frames": 120,
+   "dur": 4.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "test-wide",
+   "why": "окно 720 px ≥ 700"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-12-073418-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "hungnam",
+   "category": "Hungnam evacuation",
+   "query": "Hungnam 1950 refugees"
+  },
+  {
+   "id": "gallipoli",
+   "category": "Gallipoli evacuation",
+   "query": "Anzac Cove evacuation 1915"
+  },
+  {
+   "id": "piednoirs",
+   "category": "Pieds-noirs",
+   "query": "Pied-noir exodus Algeria 1962"
+  },
+  {
+   "id": "boatpeople",
+   "category": "Vietnamese boat people",
+   "query": "Vietnamese boat people 1979"
+  },
+  {
+   "id": "ladoga",
+   "category": "Road of Life Ladoga",
+   "query": "Leningrad evacuation Ladoga ice"
+  },
+  {
+   "id": "corb",
+   "category": "Children's Overseas Reception Board",
+   "query": "British evacuee children Canada 1940"
+  },
+  {
+   "id": "smyrna",
+   "category": "Great Fire of Smyrna",
+   "query": "Smyrna 1922 refugees"
+  },
+  {
+   "id": "sousa",
+   "category": "Aristides de Sousa Mendes",
+   "query": "Bordeaux 1940 refugees"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-12T07:34:18+00:00"
+}

@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-13-195822-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "kasztner44",
+   "category": "Kasztner train",
+   "query": "Kasztner train 1944 Bergen-Belsen Switzerland Jews"
+  },
+  {
+   "id": "gripsholm42",
+   "category": "MS Gripsholm",
+   "query": "Gripsholm exchange ship 1942 repatriation"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-13T19:58:22+00:00"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-11-074751-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "kabul21",
+   "category": "Evacuation of Kabul 2021",
+   "query": "C-17 Kabul evacuation 823 Afghans"
+  },
+  {
+   "id": "fry40",
+   "category": "Varian Fry",
+   "query": "Emergency Rescue Committee Marseille 1940"
+  },
+  {
+   "id": "kastner",
+   "category": "Kastner train",
+   "query": "Kasztner train Bergen-Belsen Hungarian Jews 1944"
+  },
+  {
+   "id": "narvik40",
+   "category": "Narvik evacuation 1940",
+   "query": "Operation Alphabet Narvik"
+  },
+  {
+   "id": "vyner",
+   "category": "Vyner Brooke",
+   "query": "Evacuation of Singapore 1942"
+  },
+  {
+   "id": "aerial40",
+   "category": "Operation Aerial",
+   "query": "Evacuation of France June 1940 Brest Saint-Nazaire"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-11T07:47:51+00:00"
+}

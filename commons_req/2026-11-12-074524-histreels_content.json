@@ -1,0 +1,13 @@
+{
+ "id": "2026-11-12-074524-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "exodus47",
+   "category": "Exodus 1947 (ship)",
+   "query": "Exodus 1947 refugees ship"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-12T07:45:24+00:00"
+}

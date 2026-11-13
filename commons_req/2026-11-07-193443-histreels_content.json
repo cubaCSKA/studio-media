@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-07-193443-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "chambon",
+   "category": "Le Chambon-sur-Lignon",
+   "query": "Chambon-sur-Lignon"
+  },
+  {
+   "id": "shanghai",
+   "category": "Shanghai Ghetto",
+   "query": "Hongkew Jewish refugees"
+  },
+  {
+   "id": "comete",
+   "category": "Comet Line",
+   "query": "Comet line evaders"
+  },
+  {
+   "id": "benares",
+   "category": "SS City of Benares",
+   "query": "City of Benares"
+  },
+  {
+   "id": "dachen",
+   "category": "Dachen Islands evacuation",
+   "query": "Tachen evacuation"
+  },
+  {
+   "id": "sosua",
+   "category": "Sosúa Dominican Republic Jewish",
+   "query": "Sosua refugees"
+  },
+  {
+   "id": "antwerp14",
+   "category": "Belgian refugees 1914 Antwerp",
+   "query": "Antwerp 1914 refugees"
+  },
+  {
+   "id": "zakynthos",
+   "category": "Zakynthos Jews 1943",
+   "query": "Zante Jews"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-07T19:34:43+00:00"
+}

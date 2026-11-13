@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-07-073937-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "winnipeg39",
+   "category": "SS Winnipeg",
+   "query": "Winnipeg ship Spanish refugees Chile 1939"
+  },
+  {
+   "id": "tallinn41",
+   "category": "Tallinn evacuation 1941",
+   "query": "Tallinn 1941 evacuation ships"
+  },
+  {
+   "id": "belgian14",
+   "category": "Belgian refugees in the United Kingdom",
+   "query": "Belgian refugees 1914"
+  },
+  {
+   "id": "orphantrain",
+   "category": "Orphan trains",
+   "query": "Orphan train children Lewis Hine"
+  },
+  {
+   "id": "lancastria",
+   "category": "RMS Lancastria",
+   "query": "Lancastria 1940 Saint-Nazaire"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-07T07:39:37+00:00"
+}
