@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-14-030803-up",
+ "requested_at": "2026-11-14T03:08:03+00:00",
+ "jobs": [
+  {
+   "id": "jl-vydra-obmen",
+   "src": "jimm_lab/src/otter.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-14/2026-11-14-030803-up_jl-vydra-obmen.mp4",
+   "w": 614,
+   "h": 614,
+   "frames": 270,
+   "dur": 9.0
+  },
+  {
+   "id": "jl-orangutan-tigryata",
+   "src": "jimm_lab/src/orang.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-14/2026-11-14-030803-up_jl-orangutan-tigryata.mp4",
+   "w": 640,
+   "h": 354,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-gatorland",
+   "src": "jimm_lab/src/croc.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-14/2026-11-14-030803-up_jl-gatorland.mp4",
+   "w": 640,
+   "h": 668,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-alisa-1933",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "jl-atlas-pedali",
+   "why": "окно 708 px ≥ 700"
+  }
+ ]
+}
