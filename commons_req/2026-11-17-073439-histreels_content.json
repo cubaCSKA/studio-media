@@ -1,0 +1,63 @@
+{
+ "id": "2026-11-17-073439-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "nezperce",
+   "category": "Nez Perce War",
+   "query": "Chief Joseph 1877"
+  },
+  {
+   "id": "woundedknee",
+   "category": "Wounded Knee Massacre",
+   "query": "Wounded Knee 1890"
+  },
+  {
+   "id": "barnardo",
+   "category": "Barnardo's",
+   "query": "Home Children Barnardo"
+  },
+  {
+   "id": "damien",
+   "category": "Father Damien Molokai",
+   "query": "Kalaupapa leprosy"
+  },
+  {
+   "id": "longmarch",
+   "category": "Long March",
+   "query": "Long March Red Army 1934"
+  },
+  {
+   "id": "bengal43",
+   "category": "Bengal famine of 1943",
+   "query": "Bengal famine 1943"
+  },
+  {
+   "id": "bangladesh71",
+   "category": "Bangladesh Liberation War refugees",
+   "query": "1971 Bangladesh refugees"
+  },
+  {
+   "id": "beaumont",
+   "category": "Battle of Beaumont-Hamel",
+   "query": "Newfoundland Regiment 1916"
+  },
+  {
+   "id": "smog52",
+   "category": "Great Smog of 1952",
+   "query": "London smog 1952"
+  },
+  {
+   "id": "tunguska",
+   "category": "Tunguska event",
+   "query": "Tunguska 1908"
+  },
+  {
+   "id": "burkewills",
+   "category": "Burke and Wills expedition",
+   "query": "Burke and Wills"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-17T07:34:39+00:00"
+}

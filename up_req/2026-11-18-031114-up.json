@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-18-031114-up",
+ "requested_at": "2026-11-18T03:11:14+00:00",
+ "jobs": [
+  {
+   "id": "jl-frilled-shark",
+   "src": "jimm_lab/src/frilled.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-031114-up_jl-frilled-shark.mp4",
+   "w": 672,
+   "h": 524,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-hormuz-red",
+   "src": "jimm_lab/src/hormuz.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-031114-up_jl-hormuz-red.mp4",
+   "w": 500,
+   "h": 786,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-jordan-1988",
+   "src": "jimm_lab/src/jordan.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-031114-up_jl-jordan-1988.mp4",
+   "w": 640,
+   "h": 410,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-deer-interview",
+   "src": "jimm_lab/src/deer.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-031114-up_jl-deer-interview.mp4",
+   "w": 640,
+   "h": 500,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-bamiyan",
+   "why": "окно 708 px ≥ 700"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-19-193346-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "baltway",
+   "category": "Baltic Way",
+   "query": "Baltic Way 1989 human chain"
+  },
+  {
+   "id": "carnat",
+   "category": "Carnation Revolution",
+   "query": "Carnation Revolution 1974 Lisbon"
+  },
+  {
+   "id": "gdansk80",
+   "category": "Gdańsk Shipyard strike 1980",
+   "query": "Solidarity 1980 Gdańsk strike"
+  },
+  {
+   "id": "selma",
+   "category": "Selma to Montgomery marches",
+   "query": "Selma march 1965"
+  },
+  {
+   "id": "mow63",
+   "category": "March on Washington for Jobs and Freedom",
+   "query": "March on Washington 1963"
+  },
+  {
+   "id": "soweto",
+   "category": "Soweto uprising",
+   "query": "Soweto 1976 students"
+  },
+  {
+   "id": "zapata",
+   "category": "Emiliano Zapata",
+   "query": "Zapata Mexican Revolution"
+  },
+  {
+   "id": "beato60",
+   "category": "Taku Forts 1860",
+   "query": "Felice Beato Taku Forts"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-19T19:33:46+00:00"
+}

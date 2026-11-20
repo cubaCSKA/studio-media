@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-15-194350-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "greattrek",
+   "category": "Great Trek",
+   "query": "Voortrekkers"
+  },
+  {
+   "id": "mormon",
+   "category": "Mormon pioneers",
+   "query": "Mormon handcart pioneers"
+  },
+  {
+   "id": "greatmig",
+   "category": "Great Migration (African American)",
+   "query": "Great Migration African American 1916"
+  },
+  {
+   "id": "antwerp14",
+   "category": "Belgian refugees in the Netherlands 1914",
+   "query": "Antwerp 1914 refugees"
+  },
+  {
+   "id": "irfamine",
+   "category": "Great Famine (Ireland)",
+   "query": "Irish famine emigrants"
+  },
+  {
+   "id": "boercamps",
+   "category": "Concentration camps in the Second Boer War",
+   "query": "Boer War concentration camp"
+  },
+  {
+   "id": "hk41",
+   "category": "Battle of Hong Kong",
+   "query": "Hong Kong 1941 evacuation"
+  },
+  {
+   "id": "navajo",
+   "category": "Long Walk of the Navajo",
+   "query": "Navajo Long Walk Bosque Redondo"
+  },
+  {
+   "id": "volgager",
+   "category": "Volga Germans",
+   "query": "Volga Germans emigration"
+  },
+  {
+   "id": "bataan",
+   "category": "Bataan Death March",
+   "query": "Bataan march prisoners"
+  },
+  {
+   "id": "pontic",
+   "category": "Pontic Greeks",
+   "query": "Pontic Greek refugees"
+  },
+  {
+   "id": "cyprus74",
+   "category": "Cyprus 1974 refugees",
+   "query": "Cyprus refugees 1974"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-15T19:43:50+00:00"
+}

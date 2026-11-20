@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-19-150912-up",
+ "requested_at": "2026-11-19T15:09:12+00:00",
+ "jobs": [
+  {
+   "id": "jl-yoriko",
+   "src": "jimm_lab/src/jl-yoriko.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-19/2026-11-19-150912-up_jl-yoriko.mp4",
+   "w": 588,
+   "h": 470,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-tungsten",
+   "src": "jimm_lab/src/jl-tungsten.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-19/2026-11-19-150912-up_jl-tungsten.mp4",
+   "w": 594,
+   "h": 446,
+   "frames": 345,
+   "dur": 11.5
+  },
+  {
+   "id": "jl-romania89",
+   "src": "jimm_lab/src/jl-romania89.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-19/2026-11-19-150912-up_jl-romania89.mp4",
+   "w": 580,
+   "h": 720,
+   "frames": 345,
+   "dur": 11.5
+  },
+  {
+   "id": "jl-pleco",
+   "src": "jimm_lab/src/jl-pleco.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-19/2026-11-19-150912-up_jl-pleco.mp4",
+   "w": 556,
+   "h": 600,
+   "frames": 324,
+   "dur": 10.8
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-mantis",
+   "why": "окно 1080 px ≥ 700"
+  }
+ ]
+}

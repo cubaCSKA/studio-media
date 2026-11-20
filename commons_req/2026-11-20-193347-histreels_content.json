@@ -1,0 +1,53 @@
+{
+ "id": "2026-11-20-193347-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "harpers",
+   "category": "Harpers Ferry raid",
+   "query": "John Brown 1859"
+  },
+  {
+   "id": "beerhall",
+   "category": "Beer Hall Putsch",
+   "query": "Hitler putsch 1923"
+  },
+  {
+   "id": "sarajevo14",
+   "category": "Assassination of Archduke Franz Ferdinand",
+   "query": "Gavrilo Princip"
+  },
+  {
+   "id": "easter16",
+   "category": "Easter Rising",
+   "query": "Dublin 1916"
+  },
+  {
+   "id": "tibet04",
+   "category": "British expedition to Tibet",
+   "query": "Younghusband Lhasa"
+  },
+  {
+   "id": "houston17",
+   "category": "Houston riot 1917",
+   "query": "Camp Logan"
+  },
+  {
+   "id": "genstrike26",
+   "category": "1926 general strike",
+   "query": "United Kingdom general strike"
+  },
+  {
+   "id": "praguespring",
+   "category": "Prague Spring",
+   "query": "Soviet invasion Czechoslovakia 1968"
+  },
+  {
+   "id": "kiel18",
+   "category": "Kiel mutiny",
+   "query": "German Revolution 1918"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-20T19:33:47+00:00"
+}

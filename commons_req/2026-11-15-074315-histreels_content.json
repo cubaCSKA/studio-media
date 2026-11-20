@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-15-074315-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "komagata",
+   "category": "Komagata Maru incident",
+   "query": "Komagata Maru 1914"
+  },
+  {
+   "id": "struma",
+   "category": "MV Struma",
+   "query": "Struma ship 1942"
+  },
+  {
+   "id": "volga",
+   "category": "Volga Germans",
+   "query": "Volga Germans deportation 1941"
+  },
+  {
+   "id": "mormon",
+   "category": "Handcart pioneers",
+   "query": "Mormon handcart 1856"
+  },
+  {
+   "id": "assyr2",
+   "category": "Assyrian refugees Baqubah camp",
+   "query": "Assyrians Urmia 1918"
+  },
+  {
+   "id": "japrep",
+   "category": "Repatriation of Japanese after World War II",
+   "query": "Japanese repatriation Manchuria 1946"
+  },
+  {
+   "id": "harbin",
+   "category": "Russians in Harbin",
+   "query": "Russian emigrants Harbin"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-15T07:43:15+00:00"
+}

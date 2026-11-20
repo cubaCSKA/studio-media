@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-14-193423-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "babylift",
+   "category": "Operation Babylift",
+   "query": "Operation Babylift 1975 orphans"
+  },
+  {
+   "id": "chilemine",
+   "category": "2010 Copiapó mining accident",
+   "query": "Chile miners rescue 2010"
+  },
+  {
+   "id": "tunnel29",
+   "category": "Tunnel 29",
+   "query": "Berlin Wall escape tunnel 1964"
+  },
+  {
+   "id": "kronstadt",
+   "category": "Kronstadt rebellion",
+   "query": "Kronstadt 1921 ice Finland refugees"
+  },
+  {
+   "id": "hmong",
+   "category": "Hmong people in Laos",
+   "query": "Hmong refugees Thailand 1975"
+  },
+  {
+   "id": "balseros",
+   "category": "Cuban rafters",
+   "query": "Balsero 1994 Cuba raft"
+  },
+  {
+   "id": "kindgrt",
+   "category": "Ahmadiyya Sudan",
+   "query": "Nauru evacuation 1945"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-14T19:34:23+00:00"
+}

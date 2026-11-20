@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-18-073422-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "manhattan01",
+   "category": "Maritime evacuation of Manhattan",
+   "query": "Manhattan boatlift 2001"
+  },
+  {
+   "id": "sepoy57",
+   "category": "Indian Rebellion of 1857",
+   "query": "Lucknow 1857 Beato"
+  },
+  {
+   "id": "coxey94",
+   "category": "Coxey's Army",
+   "query": "Coxey army 1894"
+  },
+  {
+   "id": "boxer00",
+   "category": "Siege of the International Legations",
+   "query": "Boxer Rebellion Beijing legations"
+  },
+  {
+   "id": "suffrage13",
+   "category": "Woman Suffrage Procession",
+   "query": "1913 suffrage parade Washington"
+  },
+  {
+   "id": "pullman94",
+   "category": "Pullman Strike",
+   "query": "Pullman strike 1894"
+  },
+  {
+   "id": "marcia22",
+   "category": "March on Rome",
+   "query": "March on Rome 1922 fascists"
+  },
+  {
+   "id": "kosovo99",
+   "category": "Kosovo War refugees",
+   "query": "Kosovo refugees 1999"
+  },
+  {
+   "id": "feb17",
+   "category": "February Revolution",
+   "query": "Petrograd February 1917"
+  },
+  {
+   "id": "danang75",
+   "category": "Fall of Da Nang",
+   "query": "Da Nang evacuation 1975"
+  },
+  {
+   "id": "icemarch18",
+   "category": "Ice March",
+   "query": "Kuban Ice March 1918"
+  },
+  {
+   "id": "bloodsun05",
+   "category": "Bloody Sunday (1905)",
+   "query": "Bloody Sunday 1905 Petersburg"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-18T07:34:22+00:00"
+}

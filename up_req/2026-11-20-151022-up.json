@@ -1,0 +1,52 @@
+{
+ "id": "2026-11-20-151022-up",
+ "requested_at": "2026-11-20T15:10:22+00:00",
+ "jobs": [
+  {
+   "id": "jl_mercury_llama",
+   "src": "jimm_lab/src/Df7nt7lBd0u.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-151022-up_jl_mercury_llama.mp4",
+   "w": 618,
+   "h": 458,
+   "frames": 315,
+   "dur": 10.5
+  },
+  {
+   "id": "jl_aquaman_dry",
+   "src": "jimm_lab/src/Dep7jBrFRqm.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-151022-up_jl_aquaman_dry.mp4",
+   "w": 560,
+   "h": 640,
+   "frames": 312,
+   "dur": 10.4
+  },
+  {
+   "id": "jl_berlin_1961",
+   "src": "jimm_lab/src/Dfp3khmsa-V.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-151022-up_jl_berlin_1961.mp4",
+   "w": 602,
+   "h": 692,
+   "frames": 306,
+   "dur": 10.2
+  },
+  {
+   "id": "jl_lemur_sun",
+   "src": "jimm_lab/src/DaqQNq6AUzQ.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-151022-up_jl_lemur_sun.mp4",
+   "w": 656,
+   "h": 820,
+   "frames": 303,
+   "dur": 10.1
+  },
+  {
+   "id": "jl_c130_jato",
+   "src": "jimm_lab/src/Df2v8p-sG4t.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-151022-up_jl_c130_jato.mp4",
+   "w": 602,
+   "h": 512,
+   "frames": 306,
+   "dur": 10.2
+  }
+ ],
+ "skipped": []
+}

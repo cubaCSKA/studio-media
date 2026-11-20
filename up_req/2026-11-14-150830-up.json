@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-14-150830-up",
+ "requested_at": "2026-11-14T15:08:30+00:00",
+ "jobs": [
+  {
+   "id": "jl-yang-shorttrek",
+   "src": "jimm_lab/src/yang.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-14/2026-11-14-150830-up_jl-yang-shorttrek.mp4",
+   "w": 646,
+   "h": 410,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-tyulen-plovec",
+   "src": "jimm_lab/src/sealswim.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-14/2026-11-14-150830-up_jl-tyulen-plovec.mp4",
+   "w": 602,
+   "h": 520,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-momonga",
+   "src": "jimm_lab/src/squirrel.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-14/2026-11-14-150830-up_jl-momonga.mp4",
+   "w": 556,
+   "h": 318,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-sova-tishina",
+   "why": "окно 712 px ≥ 700"
+  },
+  {
+   "id": "jl-scatman",
+   "why": "окно 712 px ≥ 700"
+  }
+ ]
+}

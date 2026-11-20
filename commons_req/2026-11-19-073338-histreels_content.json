@@ -1,0 +1,73 @@
+{
+ "id": "2026-11-19-073338-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "mallon",
+   "category": "Mary Mallon",
+   "query": "Typhoid Mary"
+  },
+  {
+   "id": "adwa96",
+   "category": "Battle of Adwa",
+   "query": "Adwa 1896"
+  },
+  {
+   "id": "dreyfus",
+   "category": "Dreyfus affair",
+   "query": "Alfred Dreyfus"
+  },
+  {
+   "id": "ramses76",
+   "category": "Mummy of Ramesses II",
+   "query": "Ramesses II mummy Paris"
+  },
+  {
+   "id": "villa",
+   "category": "Pancho Villa",
+   "query": "Pancho Villa 1916"
+  },
+  {
+   "id": "ashanti",
+   "category": "Golden Stool",
+   "query": "Ashanti 1900 Prempeh"
+  },
+  {
+   "id": "sacco",
+   "category": "Sacco and Vanzetti",
+   "query": "Sacco Vanzetti 1927"
+  },
+  {
+   "id": "smog52",
+   "category": "Great Smog of 1952",
+   "query": "London smog 1952"
+  },
+  {
+   "id": "plague11",
+   "category": "Manchurian plague",
+   "query": "Wu Lien-teh plague 1911"
+  },
+  {
+   "id": "herero",
+   "category": "Herero and Namaqua genocide",
+   "query": "Herero 1904"
+  },
+  {
+   "id": "khartoum",
+   "category": "Siege of Khartoum",
+   "query": "Charles Gordon Khartoum"
+  },
+  {
+   "id": "dienbien",
+   "category": "Battle of Dien Bien Phu",
+   "query": "Dien Bien Phu 1954"
+  },
+  {
+   "id": "canudos",
+   "category": "War of Canudos",
+   "query": "Canudos 1897"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-19T07:33:38+00:00"
+}

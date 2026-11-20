@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-15-151129-up",
+ "requested_at": "2026-11-15T15:11:29+00:00",
+ "jobs": [
+  {
+   "id": "jl-riles",
+   "src": "jimm_lab/src/jl-riles.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-15/2026-11-15-151129-up_jl-riles.mp4",
+   "w": 524,
+   "h": 660,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-raketochnik",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "jl-kontuziya",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "jl-bear-pickup",
+   "why": "окно 1080 px ≥ 700"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-20-073332-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "commune71",
+   "category": "Paris Commune",
+   "query": "Paris Commune 1871 barricades"
+  },
+  {
+   "id": "trail38",
+   "category": "Trail of Tears",
+   "query": "Cherokee removal"
+  },
+  {
+   "id": "greatesc",
+   "category": "Great Escape (World War II)",
+   "query": "Stalag Luft III"
+  },
+  {
+   "id": "komagata",
+   "category": "Komagata Maru incident",
+   "query": "Komagata Maru"
+  },
+  {
+   "id": "kiel18",
+   "category": "Kiel mutiny",
+   "query": "German Revolution of 1918-1919 Kiel"
+  },
+  {
+   "id": "longmarch",
+   "category": "Long March",
+   "query": "Long March Red Army 1934"
+  },
+  {
+   "id": "sepoy57",
+   "category": "Indian Rebellion of 1857",
+   "query": "Sepoy Mutiny 1857"
+  },
+  {
+   "id": "amistad",
+   "category": "La Amistad",
+   "query": "Amistad rebellion"
+  },
+  {
+   "id": "taiping",
+   "category": "Taiping Rebellion",
+   "query": "Taiping Heavenly Kingdom"
+  },
+  {
+   "id": "satsuma",
+   "category": "Satsuma Rebellion",
+   "query": "Saigo Takamori"
+  },
+  {
+   "id": "famine47",
+   "category": "Great Famine (Ireland)",
+   "query": "Irish famine 1847"
+  },
+  {
+   "id": "rev1848",
+   "category": "Revolutions of 1848",
+   "query": "1848 barricades"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-20T07:33:32+00:00"
+}

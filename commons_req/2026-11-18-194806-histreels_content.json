@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-18-194806-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "warsaw44",
+   "category": "Warsaw Uprising",
+   "query": "Warsaw Uprising 1944"
+  },
+  {
+   "id": "ghetto43",
+   "category": "Warsaw Ghetto Uprising",
+   "query": "Warsaw Ghetto Uprising 1943"
+  },
+  {
+   "id": "genstrike26",
+   "category": "General Strike 1926",
+   "query": "British general strike 1926"
+  },
+  {
+   "id": "bloody05",
+   "category": "Bloody Sunday 1905",
+   "query": "Bloody Sunday Saint Petersburg 1905"
+  },
+  {
+   "id": "jarrow",
+   "category": "Jarrow March",
+   "query": "Jarrow Crusade 1936"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-18T19:48:06+00:00"
+}

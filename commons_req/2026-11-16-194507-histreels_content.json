@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-16-194507-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "mayflower",
+   "category": "Mayflower",
+   "query": "Mayflower Pilgrims 1620"
+  },
+  {
+   "id": "oregon",
+   "category": "Oregon Trail",
+   "query": "Oregon Trail pioneers wagon"
+  },
+  {
+   "id": "longmarch",
+   "category": "Long March",
+   "query": "Long March Red Army 1934"
+  },
+  {
+   "id": "hongkong41",
+   "category": "Battle of Hong Kong",
+   "query": "Hong Kong 1941 Japanese invasion"
+  },
+  {
+   "id": "volga",
+   "category": "Volga Germans",
+   "query": "Volga Germans deportation"
+  },
+  {
+   "id": "homechild",
+   "category": "Home Children",
+   "query": "Barnardo child migrants Canada"
+  },
+  {
+   "id": "shanghai",
+   "category": "Shanghai Ghetto",
+   "query": "Shanghai Jewish refugees 1941"
+  },
+  {
+   "id": "bataan",
+   "category": "Bataan Death March",
+   "query": "Bataan Death March 1942"
+  },
+  {
+   "id": "singapore42",
+   "category": "Fall of Singapore",
+   "query": "Singapore evacuation 1942"
+  },
+  {
+   "id": "berezina",
+   "category": "Crossing of the Berezina",
+   "query": "Berezina 1812 Napoleon retreat"
+  },
+  {
+   "id": "navajo",
+   "category": "Long Walk of the Navajo",
+   "query": "Navajo Long Walk Bosque Redondo"
+  },
+  {
+   "id": "kabul42",
+   "category": "Retreat from Kabul 1842",
+   "query": "Elphinstone Kabul 1842"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-16T19:45:07+00:00"
+}

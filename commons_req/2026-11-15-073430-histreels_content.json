@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-15-073430-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "assyr",
+   "category": "Assyrian refugees",
+   "query": "Baqubah refugee camp 1918"
+  },
+  {
+   "id": "longmarch",
+   "category": "Long March",
+   "query": "Long March Red Army 1934"
+  },
+  {
+   "id": "pnoir",
+   "category": "Pieds-noirs",
+   "query": "Pieds-noirs exodus 1962"
+  },
+  {
+   "id": "korean",
+   "category": "Deportation of Koreans in the Soviet Union",
+   "query": "Koryo-saram 1937"
+  },
+  {
+   "id": "tatar",
+   "category": "Deportation of Crimean Tatars",
+   "query": "Crimean Tatars 1944"
+  },
+  {
+   "id": "icemarch",
+   "category": "Siberian Ice March",
+   "query": "Kappel Ice March 1920"
+  },
+  {
+   "id": "burma",
+   "category": "Indian exodus from Burma",
+   "query": "Burma refugees 1942"
+  },
+  {
+   "id": "goma",
+   "category": "Rwandan refugees in Goma",
+   "query": "Goma refugees 1994"
+  },
+  {
+   "id": "lostboys",
+   "category": "Lost Boys of Sudan",
+   "query": "Sudanese refugees 1987"
+  },
+  {
+   "id": "irish",
+   "category": "Irish emigrants Great Famine",
+   "query": "Irish famine emigration 1847"
+  },
+  {
+   "id": "stolypin",
+   "category": "Resettlement in Siberia",
+   "query": "Siberian settlers 1910"
+  },
+  {
+   "id": "bulg",
+   "category": "Bulgarian Turks 1989",
+   "query": "Turkish refugees Bulgaria 1989"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-15T07:34:30+00:00"
+}

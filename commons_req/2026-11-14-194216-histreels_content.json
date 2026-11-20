@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-14-194216-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "aleut",
+   "category": "Aleut evacuation",
+   "query": "Aleut internment World War II Alaska 1942"
+  },
+  {
+   "id": "nobile",
+   "category": "Airship Italia",
+   "query": "Krasin icebreaker Nobile rescue 1928"
+  },
+  {
+   "id": "thamluang",
+   "category": "Tham Luang cave rescue",
+   "query": "Tham Luang cave rescue 2018 Wild Boars"
+  },
+  {
+   "id": "shanghai49",
+   "category": "Evacuation of Shanghai 1949",
+   "query": "Nationalist retreat Taiwan 1949 refugees"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-14T19:42:16+00:00"
+}

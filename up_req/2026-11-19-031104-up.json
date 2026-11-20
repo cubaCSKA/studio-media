@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-19-031104-up",
+ "requested_at": "2026-11-19T03:11:04+00:00",
+ "jobs": [
+  {
+   "id": "jl-jackie-robbhood",
+   "src": "jimm_lab/src/Df0QVlyArpb.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-19/2026-11-19-031104-up_jl-jackie-robbhood.mp4",
+   "w": 566,
+   "h": 366,
+   "frames": 330,
+   "dur": 11.0
+  },
+  {
+   "id": "jl-penduline-nest",
+   "src": "jimm_lab/src/DT5Jbc-Eb8I.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-19/2026-11-19-031104-up_jl-penduline-nest.mp4",
+   "w": 606,
+   "h": 478,
+   "frames": 262,
+   "dur": 8.801
+  },
+  {
+   "id": "jl-fuego-drone",
+   "src": "jimm_lab/src/DeKPK4xqbVM.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-19/2026-11-19-031104-up_jl-fuego-drone.mp4",
+   "w": 626,
+   "h": 890,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-pool-4balls",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "jl-manta-cough",
+   "why": "окно 720 px ≥ 700"
+  }
+ ]
+}

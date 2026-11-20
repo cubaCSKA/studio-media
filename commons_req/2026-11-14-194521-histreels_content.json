@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-14-194521-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "rongelap",
+   "category": "Rongelap Atoll",
+   "query": "Rongelap evacuation 1954 Castle Bravo islanders"
+  },
+  {
+   "id": "kitchener",
+   "category": "Kitchener Camp",
+   "query": "Kitchener Camp Richborough Jewish refugees 1939"
+  },
+  {
+   "id": "malaga37",
+   "category": "Málaga–Almería road massacre",
+   "query": "Desbandá Málaga 1937 refugees"
+  },
+  {
+   "id": "burma42",
+   "category": "Indian exodus from Burma",
+   "query": "Burma 1942 Indian refugees trek Assam"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-14T19:45:21+00:00"
+}

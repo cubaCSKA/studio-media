@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-17-030754-up",
+ "requested_at": "2026-11-17T03:07:54+00:00",
+ "jobs": [
+  {
+   "id": "ski_ballet",
+   "src": "jimm_lab/src/ski_ballet.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-17/2026-11-17-030754-up_ski_ballet.mp4",
+   "w": 580,
+   "h": 732,
+   "frames": 321,
+   "dur": 10.7
+  },
+  {
+   "id": "irbis_altai",
+   "src": "jimm_lab/src/irbis_altai.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-17/2026-11-17-030754-up_irbis_altai.mp4",
+   "w": 568,
+   "h": 626,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "moon_schmitt",
+   "why": "окно 704 px ≥ 700"
+  },
+  {
+   "id": "bono_wave",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "octopus_throw",
+   "why": "окно 708 px ≥ 700"
+  }
+ ]
+}

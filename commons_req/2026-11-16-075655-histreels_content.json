@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-16-075655-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "trek",
+   "category": "Great Trek",
+   "query": "Voortrekkers Great Trek"
+  },
+  {
+   "id": "mormon",
+   "category": "Mormon pioneers",
+   "query": "Mormon handcart pioneers"
+  },
+  {
+   "id": "migration",
+   "category": "Great Migration (African American)",
+   "query": "Great Migration African Americans 1916"
+  },
+  {
+   "id": "boercamps",
+   "category": "Concentration camps in the Second Boer War",
+   "query": "Boer War concentration camp"
+  },
+  {
+   "id": "navajo",
+   "category": "Long Walk of the Navajo",
+   "query": "Navajo Bosque Redondo"
+  },
+  {
+   "id": "volga",
+   "category": "Volga Germans",
+   "query": "Volga Germans emigration"
+  },
+  {
+   "id": "bataan",
+   "category": "Bataan Death March",
+   "query": "Bataan prisoners 1942"
+  },
+  {
+   "id": "pontic",
+   "category": "Pontic Greeks",
+   "query": "Greek refugees Black Sea 1922"
+  },
+  {
+   "id": "cyprus74",
+   "category": "Turkish invasion of Cyprus",
+   "query": "Cyprus refugees 1974"
+  },
+  {
+   "id": "kronstadt",
+   "category": "Kronstadt rebellion",
+   "query": "Kronstadt 1921"
+  },
+  {
+   "id": "trail",
+   "category": "Trail of Tears",
+   "query": "Cherokee removal"
+  },
+  {
+   "id": "irishfamine",
+   "category": "Great Famine (Ireland)",
+   "query": "Irish famine emigrants"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-16T07:56:55+00:00"
+}

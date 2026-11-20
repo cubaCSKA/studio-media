@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-16-150929-up",
+ "requested_at": "2026-11-16T15:09:29+00:00",
+ "jobs": [
+  {
+   "id": "jl-sent-helens",
+   "src": "jimm_lab/src/Dd13hchiprN.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-16/2026-11-16-150929-up_jl-sent-helens.mp4",
+   "w": 648,
+   "h": 316,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-defector-2017",
+   "src": "jimm_lab/src/Dd2ACNJjCBk.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-16/2026-11-16-150929-up_jl-defector-2017.mp4",
+   "w": 648,
+   "h": 348,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-pyramid-climb",
+   "why": "окно 712 px ≥ 700"
+  },
+  {
+   "id": "jl-cruise-pole",
+   "why": "окно 720 px ≥ 700"
+  },
+  {
+   "id": "jl-overcab-loader",
+   "why": "окно 1080 px ≥ 700"
+  }
+ ]
+}

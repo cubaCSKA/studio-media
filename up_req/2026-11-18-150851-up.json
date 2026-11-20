@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-18-150851-up",
+ "requested_at": "2026-11-18T15:08:51+00:00",
+ "jobs": [
+  {
+   "id": "jl-kbs-1983",
+   "src": "jimm_lab/src/kbs.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-150851-up_jl-kbs-1983.mp4",
+   "w": 628,
+   "h": 424,
+   "frames": 291,
+   "dur": 9.7
+  },
+  {
+   "id": "jl-lessing-nobel",
+   "src": "jimm_lab/src/lessing.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-150851-up_jl-lessing-nobel.mp4",
+   "w": 634,
+   "h": 344,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-celentano-1972",
+   "src": "jimm_lab/src/celentano.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-150851-up_jl-celentano-1972.mp4",
+   "w": 618,
+   "h": 394,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-guard-pup",
+   "src": "jimm_lab/src/guard-dog.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-18/2026-11-18-150851-up_jl-guard-pup.mp4",
+   "w": 590,
+   "h": 532,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-bolt-2008",
+   "why": "окно 712 px ≥ 700"
+  }
+ ]
+}

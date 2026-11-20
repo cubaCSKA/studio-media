@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-20-030932-up",
+ "requested_at": "2026-11-20T03:09:32+00:00",
+ "jobs": [
+  {
+   "id": "jl-neyasyt",
+   "src": "jimm_lab/src/jl-neyasyt.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-030932-up_jl-neyasyt.mp4",
+   "w": 620,
+   "h": 332,
+   "frames": 315,
+   "dur": 10.5
+  },
+  {
+   "id": "jl-gallego",
+   "src": "jimm_lab/src/jl-gallego.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-030932-up_jl-gallego.mp4",
+   "w": 636,
+   "h": 338,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-busmx",
+   "src": "jimm_lab/src/jl-busmx.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-20/2026-11-20-030932-up_jl-busmx.mp4",
+   "w": 616,
+   "h": 770,
+   "frames": 324,
+   "dur": 10.8
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-straus",
+   "why": "окно 720 px ≥ 700"
+  },
+  {
+   "id": "jl-trelevka",
+   "why": "окно 720 px ≥ 700"
+  }
+ ]
+}
