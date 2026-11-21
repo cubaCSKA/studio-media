@@ -1,0 +1,52 @@
+{
+ "id": "2026-11-21-031108-up",
+ "requested_at": "2026-11-21T03:11:08+00:00",
+ "jobs": [
+  {
+   "id": "jl_1917_run",
+   "src": "jimm_lab/src/jl_1917_run.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-031108-up_jl_1917_run.mp4",
+   "w": 584,
+   "h": 556,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl_holotile",
+   "src": "jimm_lab/src/jl_holotile.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-031108-up_jl_holotile.mp4",
+   "w": 676,
+   "h": 490,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl_venera",
+   "src": "jimm_lab/src/jl_venera.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-031108-up_jl_venera.mp4",
+   "w": 698,
+   "h": 504,
+   "frames": 294,
+   "dur": 9.8
+  },
+  {
+   "id": "jl_ratatouille",
+   "src": "jimm_lab/src/jl_ratatouille.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-031108-up_jl_ratatouille.mp4",
+   "w": 650,
+   "h": 496,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl_kim_violin",
+   "src": "jimm_lab/src/jl_kim_violin.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-031108-up_jl_kim_violin.mp4",
+   "w": 584,
+   "h": 428,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": []
+}
