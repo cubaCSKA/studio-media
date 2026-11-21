@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-21-150742-up",
+ "requested_at": "2026-11-21T15:07:42+00:00",
+ "jobs": [
+  {
+   "id": "jl-hammer-fire",
+   "src": "jimm_lab/src/jl_hammer_fire.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-150742-up_jl-hammer-fire.mp4",
+   "w": 642,
+   "h": 618,
+   "frames": 300,
+   "dur": 10.0
+  },
+  {
+   "id": "jl-batman-shark",
+   "src": "jimm_lab/src/jl_batman_shark.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-150742-up_jl-batman-shark.mp4",
+   "w": 574,
+   "h": 448,
+   "frames": 312,
+   "dur": 10.4
+  },
+  {
+   "id": "jl-cutlassfish",
+   "src": "jimm_lab/src/jl_cutlassfish.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-150742-up_jl-cutlassfish.mp4",
+   "w": 550,
+   "h": 728,
+   "frames": 288,
+   "dur": 9.6
+  },
+  {
+   "id": "jl-eclipse",
+   "src": "jimm_lab/src/jl_eclipse.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-21/2026-11-21-150742-up_jl-eclipse.mp4",
+   "w": 550,
+   "h": 728,
+   "frames": 300,
+   "dur": 10.0
+  }
+ ],
+ "skipped": []
+}
