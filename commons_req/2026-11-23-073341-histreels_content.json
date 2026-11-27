@@ -1,0 +1,58 @@
+{
+ "id": "2026-11-23-073341-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "adwa",
+   "category": "Battle of Adwa",
+   "query": "Battle of Adwa 1896 Menelik"
+  },
+  {
+   "id": "dbp",
+   "category": "Battle of Dien Bien Phu",
+   "query": "Dien Bien Phu 1954 French paratroopers"
+  },
+  {
+   "id": "brown",
+   "category": "John Brown (abolitionist)",
+   "query": "John Brown Harpers Ferry raid 1859"
+  },
+  {
+   "id": "garib",
+   "category": "Giuseppe Garibaldi",
+   "query": "Garibaldi Expedition of the Thousand 1860"
+  },
+  {
+   "id": "sedan",
+   "category": "Battle of Sedan",
+   "query": "Napoleon III Sedan 1870 surrender"
+  },
+  {
+   "id": "brus",
+   "category": "Brusilov Offensive",
+   "query": "Brusilov offensive 1916"
+  },
+  {
+   "id": "easter",
+   "category": "Easter Rising",
+   "query": "Easter Rising Dublin 1916"
+  },
+  {
+   "id": "balak",
+   "category": "Charge of the Light Brigade",
+   "query": "Balaclava 1854 Crimean War"
+  },
+  {
+   "id": "omdur",
+   "category": "Battle of Omdurman",
+   "query": "Omdurman 1898 Kitchener"
+  },
+  {
+   "id": "taxi",
+   "category": "Taxis de la Marne",
+   "query": "Marne taxis 1914 Gallieni"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-23T07:33:41+00:00"
+}

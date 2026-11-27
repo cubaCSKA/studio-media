@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-24-074415-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "nezperce",
+   "category": "Chief Joseph",
+   "query": "Nez Perce War 1877"
+  },
+  {
+   "id": "navajo",
+   "category": "Long Walk of the Navajo",
+   "query": "Navajo Long Walk Bosque Redondo"
+  },
+  {
+   "id": "maxim",
+   "category": "Execution of Maximilian I of Mexico",
+   "query": "Maximilian execution 1867"
+  },
+  {
+   "id": "garibaldi",
+   "category": "Expedition of the Thousand",
+   "query": "Garibaldi 1860 Thousand"
+  },
+  {
+   "id": "magdala",
+   "category": "Battle of Magdala",
+   "query": "Tewodros II Magdala 1868"
+  },
+  {
+   "id": "longmarch",
+   "category": "Long March",
+   "query": "Long March Red Army 1935"
+  },
+  {
+   "id": "kolchak",
+   "category": "Siberian Ice March",
+   "query": "Kolchak 1920"
+  },
+  {
+   "id": "summerpal",
+   "category": "Old Summer Palace",
+   "query": "Summer Palace 1860 burning"
+  },
+  {
+   "id": "easter16",
+   "category": "Easter Rising",
+   "query": "Easter Rising 1916 Dublin"
+  },
+  {
+   "id": "taiping",
+   "category": "Taiping Rebellion",
+   "query": "Hong Xiuquan"
+  },
+  {
+   "id": "khartoum",
+   "category": "Siege of Khartoum",
+   "query": "Gordon Khartoum 1885"
+  },
+  {
+   "id": "lilio",
+   "category": "Liliuokalani",
+   "query": "Overthrow of Hawaiian Kingdom 1893"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-24T07:44:15+00:00"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-21-193342-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "xinhai",
+   "category": "Xinhai Revolution",
+   "query": "Wuchang Uprising 1911"
+  },
+  {
+   "id": "velvet89",
+   "category": "Velvet Revolution",
+   "query": "Prague November 1989 demonstration"
+  },
+  {
+   "id": "longmarch",
+   "category": "Long March",
+   "query": "Red Army Long March 1934"
+  },
+  {
+   "id": "maumau",
+   "category": "Mau Mau Uprising",
+   "query": "Mau Mau Kenya 1950s"
+  },
+  {
+   "id": "trek",
+   "category": "Great Trek",
+   "query": "Voortrekkers"
+  },
+  {
+   "id": "iran79",
+   "category": "Iranian Revolution",
+   "query": "Iran 1979 revolution Tehran"
+  },
+  {
+   "id": "garibaldi",
+   "category": "Expedition of the Thousand",
+   "query": "Garibaldi 1860"
+  },
+  {
+   "id": "boxer",
+   "category": "Boxer Rebellion",
+   "query": "Siege of the Legations 1900"
+  },
+  {
+   "id": "cuba59",
+   "category": "Cuban Revolution",
+   "query": "Sierra Maestra Castro"
+  },
+  {
+   "id": "bounty",
+   "category": "Mutiny on the Bounty",
+   "query": "Pitcairn Island Bounty"
+  },
+  {
+   "id": "lenin17",
+   "category": "Lenin sealed train",
+   "query": "Lenin 1917 Petrograd Finland Station"
+  },
+  {
+   "id": "kapp",
+   "category": "Kapp Putsch",
+   "query": "Spartacist uprising 1919"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-21T19:33:42+00:00"
+}

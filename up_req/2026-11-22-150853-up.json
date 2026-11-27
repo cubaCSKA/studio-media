@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-22-150853-up",
+ "requested_at": "2026-11-22T15:08:53+00:00",
+ "jobs": [
+  {
+   "id": "jl-mabuchi",
+   "src": "jimm_lab/src/jl-mabuchi.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-22/2026-11-22-150853-up_jl-mabuchi.mp4",
+   "w": 618,
+   "h": 696,
+   "frames": 315,
+   "dur": 10.5
+  },
+  {
+   "id": "jl-ibex",
+   "src": "jimm_lab/src/jl-ibex.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-22/2026-11-22-150853-up_jl-ibex.mp4",
+   "w": 568,
+   "h": 642,
+   "frames": 315,
+   "dur": 10.5
+  },
+  {
+   "id": "jl-boxship",
+   "src": "jimm_lab/src/jl-boxship.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-22/2026-11-22-150853-up_jl-boxship.mp4",
+   "w": 560,
+   "h": 860,
+   "frames": 330,
+   "dur": 11.0
+  },
+  {
+   "id": "jl-wolffish",
+   "src": "jimm_lab/src/jl-wolffish.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-22/2026-11-22-150853-up_jl-wolffish.mp4",
+   "w": 578,
+   "h": 396,
+   "frames": 342,
+   "dur": 11.4
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-sleeves",
+   "why": "окно 1040 px ≥ 700"
+  }
+ ]
+}

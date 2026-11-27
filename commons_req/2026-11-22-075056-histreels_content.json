@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-22-075056-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "aqaba17",
+   "category": "Category:Arab Revolt",
+   "query": "Lawrence of Arabia Aqaba 1917"
+  },
+  {
+   "id": "emden14",
+   "category": "Category:SMS Emden (1908)",
+   "query": "SMS Emden 1914 Mueller"
+  },
+  {
+   "id": "portarthur",
+   "category": "Category:Siege of Port Arthur",
+   "query": "Port Arthur siege 1904"
+  },
+  {
+   "id": "selassie36",
+   "category": "Category:Haile Selassie",
+   "query": "Haile Selassie League of Nations 1936"
+  },
+  {
+   "id": "crash29",
+   "category": "Category:Wall Street Crash of 1929",
+   "query": "Wall Street crash 1929 crowd"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-22T07:50:56+00:00"
+}

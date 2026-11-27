@@ -1,0 +1,64 @@
+name: TikTok clean copies to Telegram
+
+# Решение владельца 07.11.2026: ролики для ручной заливки в TikTok приходят в
+# Telegram-группу «Cuba, Realmi и Mike» ботом, без Мака. Облачные рутины
+# factamero / spektr / histarch кладут сюда чистые копии <id>_tt.mp4 без
+# рекламного баннера — пуш с таким файлом и запускает отправку (cron в
+# публичном репозитории опаздывает на часы, поэтому основной триггер — push;
+# расписание только страховка). Код и состояние (shared/tt_sent.json) — в
+# закрытом cubaCSKA/studio. Логи публичные: секреты не печатать.
+
+on:
+  push:
+    branches: [main]
+    paths: ["**/*_tt.mp4"]
+  schedule:
+    - cron: "15 7 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "send | dry-run | test"
+        default: "send"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tt-send
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    defaults:
+      run:
+        working-directory: studio
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: cubaCSKA/studio
+          token: ${{ secrets.STUDIO_TOKEN }}
+          path: studio
+      - name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+      - name: Send
+        env:
+          TT_BOT_TOKEN: ${{ secrets.TT_BOT_TOKEN }}
+          TT_CHAT_ID: ${{ secrets.TT_CHAT_ID }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'send' }}"
+          if [ "$MODE" = "test" ]; then python3 shared/tt_send.py --test; exit 0; fi
+          if [ "$MODE" = "dry-run" ]; then python3 shared/tt_send.py --dry-run; exit 0; fi
+          python3 shared/tt_send.py
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "tt-send"
+          git config user.email "actions@users.noreply.github.com"
+          git add shared/tt_sent.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "состояние не изменилось"; exit 0; fi
+          git commit -q -m "tt-send: отправлены копии для TikTok"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1

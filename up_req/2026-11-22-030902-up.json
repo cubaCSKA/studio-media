@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-22-030902-up",
+ "requested_at": "2026-11-22T03:09:02+00:00",
+ "jobs": [
+  {
+   "id": "jl-analemma",
+   "src": "jimm_lab/src/DeDzPN0IxQA.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-22/2026-11-22-030902-up_jl-analemma.mp4",
+   "w": 632,
+   "h": 478,
+   "frames": 309,
+   "dur": 10.3
+  },
+  {
+   "id": "jl-roxbury",
+   "src": "jimm_lab/src/DdexcemCrAw.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-22/2026-11-22-030902-up_jl-roxbury.mp4",
+   "w": 636,
+   "h": 478,
+   "frames": 306,
+   "dur": 10.2
+  },
+  {
+   "id": "jl-svevia",
+   "src": "jimm_lab/src/DcQFvX2pKet.mp4",
+   "url": "https://raw.githubusercontent.com/cubaCSKA/studio-media/main/upsrc/2026-11-22/2026-11-22-030902-up_jl-svevia.mp4",
+   "w": 652,
+   "h": 608,
+   "frames": 306,
+   "dur": 10.2
+  }
+ ],
+ "skipped": [
+  {
+   "id": "jl-paro",
+   "why": "окно 708 px ≥ 700"
+  },
+  {
+   "id": "jl-utahflood",
+   "why": "окно 1080 px ≥ 700"
+  }
+ ]
+}

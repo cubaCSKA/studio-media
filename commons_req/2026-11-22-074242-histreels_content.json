@@ -1,0 +1,33 @@
+{
+ "id": "2026-11-22-074242-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "allende73",
+   "category": "Category:1973 Chilean coup d'état",
+   "query": "Chile coup 1973 La Moneda"
+  },
+  {
+   "id": "tsushima05",
+   "category": "Category:Battle of Tsushima",
+   "query": "Tsushima 1905 Russian fleet"
+  },
+  {
+   "id": "mafeking",
+   "category": "Category:Siege of Mafeking",
+   "query": "Mafeking siege 1900"
+  },
+  {
+   "id": "korea19",
+   "category": "Category:March 1st Movement",
+   "query": "March First Movement 1919"
+  },
+  {
+   "id": "novoch62",
+   "category": "Category:Novocherkassk massacre",
+   "query": "Novocherkassk 1962"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-22T07:42:42+00:00"
+}

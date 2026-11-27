@@ -1,0 +1,63 @@
+{
+ "id": "2026-11-23-193345-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "nezperce",
+   "category": "Chief Joseph",
+   "query": "Nez Perce War 1877"
+  },
+  {
+   "id": "mormon",
+   "category": "Mormon pioneers",
+   "query": "Brigham Young 1847"
+  },
+  {
+   "id": "bull",
+   "category": "Sitting Bull",
+   "query": "Sitting Bull 1881"
+  },
+  {
+   "id": "geronimo",
+   "category": "Geronimo",
+   "query": "Geronimo surrender 1886"
+  },
+  {
+   "id": "longmarch",
+   "category": "Long March",
+   "query": "Red Army Long March 1934"
+  },
+  {
+   "id": "maumau",
+   "category": "Mau Mau Uprising",
+   "query": "Mau Mau Kenya 1952"
+  },
+  {
+   "id": "gordon",
+   "category": "Charles George Gordon",
+   "query": "Siege of Khartoum 1885"
+  },
+  {
+   "id": "maxim",
+   "category": "Maximilian I of Mexico",
+   "query": "Querétaro 1867"
+  },
+  {
+   "id": "navajo",
+   "category": "Long Walk of the Navajo",
+   "query": "Navajo 1864"
+  },
+  {
+   "id": "taiping",
+   "category": "Taiping Rebellion",
+   "query": "Hong Xiuquan"
+  },
+  {
+   "id": "puyi",
+   "category": "Puyi",
+   "query": "Last Emperor of China"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-23T19:33:45+00:00"
+}

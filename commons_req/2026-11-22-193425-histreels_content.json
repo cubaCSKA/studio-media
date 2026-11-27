@@ -1,0 +1,58 @@
+{
+ "id": "2026-11-22-193425-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "kelly80",
+   "category": "Ned Kelly",
+   "query": "Ned Kelly bushranger"
+  },
+  {
+   "id": "makhno",
+   "category": "Nestor Makhno",
+   "query": "Makhno anarchist"
+  },
+  {
+   "id": "sandino",
+   "category": "Augusto César Sandino",
+   "query": "Sandino Nicaragua 1930"
+  },
+  {
+   "id": "alcazar36",
+   "category": "Siege of the Alcázar",
+   "query": "Alcázar Toledo 1936"
+  },
+  {
+   "id": "collins",
+   "category": "Michael Collins (Irish leader)",
+   "query": "Michael Collins 1922"
+  },
+  {
+   "id": "cristero",
+   "category": "Cristero War",
+   "query": "Cristeros Mexico"
+  },
+  {
+   "id": "radiumg",
+   "category": "Radium Girls",
+   "query": "radium dial painters"
+  },
+  {
+   "id": "bonnie",
+   "category": "Bonnie and Clyde",
+   "query": "Bonnie Parker Clyde Barrow"
+  },
+  {
+   "id": "butch",
+   "category": "Butch Cassidy",
+   "query": "Wild Bunch outlaws"
+  },
+  {
+   "id": "aguinaldo",
+   "category": "Emilio Aguinaldo",
+   "query": "Philippine Revolution 1898"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-22T19:34:25+00:00"
+}

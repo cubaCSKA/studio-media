@@ -1,0 +1,48 @@
+{
+ "id": "2026-11-22-073346-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "icemarch",
+   "category": "Category:White movement",
+   "query": "Ice March 1918 Kornilov"
+  },
+  {
+   "id": "dalai59",
+   "category": "Category:1959 Tibetan uprising",
+   "query": "Dalai Lama 1959 escape"
+  },
+  {
+   "id": "balaklava",
+   "category": "Category:Charge of the Light Brigade",
+   "query": "Balaclava 1854 Fenton"
+  },
+  {
+   "id": "gettys",
+   "category": "Category:Battle of Gettysburg",
+   "query": "Gettysburg 1863 photograph"
+  },
+  {
+   "id": "brown59",
+   "category": "Category:John Brown's raid on Harpers Ferry",
+   "query": "John Brown Harpers Ferry"
+  },
+  {
+   "id": "shipka",
+   "category": "Category:Battle of Shipka Pass",
+   "query": "Shipka Pass 1877"
+  },
+  {
+   "id": "lumumba",
+   "category": "Category:Patrice Lumumba",
+   "query": "Lumumba Congo 1960"
+  },
+  {
+   "id": "kapp20",
+   "category": "Category:Kapp Putsch",
+   "query": "Kapp Putsch 1920"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-22T07:33:46+00:00"
+}
