@@ -1,0 +1,68 @@
+{
+ "id": "2026-11-28-193333-histreels_content",
+ "channel_dir": "histreels_content",
+ "topics": [
+  {
+   "id": "billykid",
+   "category": "Billy the Kid",
+   "query": "Billy the Kid tintype"
+  },
+  {
+   "id": "tsushima",
+   "category": "Battle of Tsushima",
+   "query": "Tsushima 1905 Russian fleet"
+  },
+  {
+   "id": "portarthur",
+   "category": "Siege of Port Arthur",
+   "query": "Port Arthur 1904"
+  },
+  {
+   "id": "garibaldi",
+   "category": "Garibaldi's Expedition of the Thousand",
+   "query": "Garibaldi 1860"
+  },
+  {
+   "id": "decembrists",
+   "category": "Decembrist revolt",
+   "query": "Decembrists 1825"
+  },
+  {
+   "id": "nation",
+   "category": "Carrie Nation",
+   "query": "Carrie Nation hatchet"
+  },
+  {
+   "id": "alamo",
+   "category": "Battle of the Alamo",
+   "query": "Alamo 1836"
+  },
+  {
+   "id": "berezina",
+   "category": "Battle of the Berezina",
+   "query": "Berezina 1812"
+  },
+  {
+   "id": "pushkin",
+   "category": "Duel of Alexander Pushkin",
+   "query": "Pushkin duel Dantes"
+  },
+  {
+   "id": "sorge",
+   "category": "Richard Sorge",
+   "query": "Richard Sorge spy"
+  },
+  {
+   "id": "pompeii",
+   "category": "Pompeii casts",
+   "query": "Pompeii victims"
+  },
+  {
+   "id": "trafalgar",
+   "category": "Battle of Trafalgar",
+   "query": "Nelson death Victory"
+  }
+ ],
+ "limit": 24,
+ "requested_at": "2026-11-28T19:33:33+00:00"
+}
